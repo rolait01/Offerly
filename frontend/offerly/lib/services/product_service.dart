@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 import '../models/product_model.dart';
 
 class ProductService {
-  final String _baseUrl = 'http://192.168.178.130:8000';
+  final String _baseUrl = 'http://192.168.xxx.xxx:8000';
 
   Future<List<Product>> fetchProducts(String query) async {
     debugPrint("Send request with $query");
