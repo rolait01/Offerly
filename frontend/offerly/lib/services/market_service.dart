@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'package:offerly/models/market_model.dart';
 
 class MarketService {
-  final String _baseUrl = 'http://192.168.178.130:8000';
+  final String _baseUrl = 'http://192.168.xxx.xxx:8000';
 
   Future<List<Market>> fetchEdekaMarkets(String postalCode) async {
     final uri = Uri.parse('$_baseUrl/markets/edeka/$postalCode');
