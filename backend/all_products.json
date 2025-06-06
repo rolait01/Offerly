@@ -1,0 +1,8474 @@
+[
+  {
+    "id": 1,
+    "name": "Katjes Fruchtgummi",
+    "description": "versch. Sorten , je 175-g-Btl , (1 kg = 3,37)",
+    "price": "0.59",
+    "store": "Rewe",
+    "categories": [
+      "Süßwaren",
+      "Snacks",
+      "Fruchtgummi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wiesenhof Geflügel Mortadella",
+    "description": "versch. Sorten , je 100-g-Pckg , (1 kg = 12,90)",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Wurstwaren",
+      "Geflügelprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dove Deo Spray",
+    "description": "versch. Sorten, 150 ml, (1 L = 12,60)",
+    "price": "1.89",
+    "store": "Edeka",
+    "categories": [
+      "Körperpflege",
+      "Deodorants",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Freixenet Sekt",
+    "description": "versch. Sorten , je 0,75-l-Fl , (1 l = 5,17)",
+    "price": "3.88",
+    "store": "Rewe",
+    "categories": [
+      "Getränke",
+      "Alkohol",
+      "Sekt"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dtsch. Erdbeeren",
+    "description": "je 500-g-Schale",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "BERENTZEN Fruchtige Liköre",
+    "description": "je 0,7-l-Fl.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spirituosen",
+      "Liköre",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "LEIFHEIT Wischtuchpresse Profi Evo",
+    "description": "bequeme Fußbedienung des Pressaufsatzes, mit robustem Tragegriff, Fassungsvermögen: 8 L\n \n• Inkl. integrierten Rollen für den leichten Transport",
+    "price": "34.99",
+    "store": "Edeka",
+    "categories": [
+      "Haushaltswaren",
+      "Reinigungszubehör",
+      "Putzbedarf"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "HENGLEIN Frischer Hefeteig",
+    "description": "je 450-g-Rolle",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Teigwaren",
+      "Backzutaten",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Captain Morgan Original Spiced Gold",
+    "description": "35% Vol. oder White Rum, 37,5% Vol., 0,7 L, (1 L = 14,27)",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Rum",
+      "Spirituosen",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "ja! Reine Buttermilch",
+    "description": "je 500-g-Becher , (1 kg = 1,18)",
+    "price": "0.59",
+    "store": "Rewe",
+    "categories": [
+      "Milchprodukte",
+      "Getränke",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Frühstücksschinken",
+    "description": "Schinkenspeck, mild geräuchert, 100 g",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "FROSTA Kräuter",
+    "description": "je 70 - 120-g-Packg.",
+    "price": "0.79",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlkost",
+      "Kräuter & Gewürze",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "LIV&BO® Badematte",
+    "description": "je",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Bad",
+      "Heimtextilien",
+      "Wohnaccessoires"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "K-PURLAND Puten-Grillies",
+    "description": "je 300-g-Packg.",
+    "price": "2.22",
+    "store": "Kaufland",
+    "categories": [
+      "Geflügel",
+      "Grillfleisch",
+      "Fertigprodukte"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "LILLET Weinaperitif",
+    "description": "je 0,75-l-Fl.",
+    "price": "11.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Aperitif",
+      "Spirituosen"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "HEINZ Sauce",
+    "description": "je 220-ml-Fl.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Saucen",
+      "Lebensmittel",
+      "Ketchup"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "EiszeitQuell Mineralwasser",
+    "description": "versch. Sorten, z. B. Sanft Perlend 6 x 0,5 L, zzgl. 1,50 Pfand, (1 L = 0,83)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Mineralwasser",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Weltmeister-Chiabrötchen",
+    "description": "je Stück",
+    "price": "0.29",
+    "store": "Kaufland",
+    "categories": [
+      "Backwaren",
+      "Brötchen",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Meica Curryking",
+    "description": "auch Geflügel, 220 g, (1 kg = 8,14)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Fertiggerichte",
+      "Wurstwaren",
+      "Snackgerichte"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Apricot Peppers",
+    "description": "je 100 g",
+    "price": "1.59",
+    "store": "Kaufland",
+    "categories": [
+      "Antipasti",
+      "Feinkost",
+      "eingelegtes Gemüse"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "O.B. Tampons ProComfort",
+    "description": "je 32 - 64-St.-Packg.",
+    "price": "3.95",
+    "store": "Kaufland",
+    "categories": [
+      "Damenhygiene",
+      "Tampons",
+      "Monatshygiene"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Pick Salami oder Paprika-Kolbasz",
+    "description": "original ungarisch , je 100 g",
+    "price": "2.49",
+    "store": "Rewe",
+    "categories": [
+      "Wurstwaren",
+      "Ungarische Spezialitäten",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Mionetto Prosecco Treviso Brut DOC",
+    "description": "auch 0,0% alkoholfrei, 0,75 L, (1 L = 8,65)",
+    "price": "6.49",
+    "store": "Edeka",
+    "categories": [
+      "Sekt & Prosecco",
+      "Alkoholfreie Getränke",
+      "Wein"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Gut & Günstig Strunkentferner",
+    "description": "leichtes Entfernen des Strunkes, mit rutschfestem Griff, auch für Tomaten geeignet\n \n• Nur in teilnehmenden Märkten erhältlich",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Küchenhelfer",
+      "Obst- und Gemüseschneider",
+      "Haushaltswaren"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Schweine-Rückenbraten",
+    "description": "ohne Knochen, vollfleischig, 1 kg",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch & Wurst",
+      "Schweinefleisch",
+      "Braten"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Rügenwalder Mühlen Schnitzel",
+    "description": "je 2 x 90-g-Pckg , (1 kg = 13,83)",
+    "price": "2.49",
+    "store": "Rewe",
+    "categories": [
+      "Vegetarische Produkte",
+      "Fertiggerichte",
+      "Fleischersatz"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "HELLO TASTE Salatdressing",
+    "description": "je 300-ml-Fl.",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Salatdressings",
+      "Lebensmittel",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Nescafé Gold, Gold Crema",
+    "description": "auch Gold mild, 200 g, (1 kg = 34,95)",
+    "price": "6.99",
+    "store": "Edeka",
+    "categories": [
+      "Kaffee",
+      "Instantkaffee",
+      "Heißgetränke"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Ab Dienstag erhältlich: ¹Lachstasche mit Pangasius",
+    "description": "mariniert, dekoriert mit Blütenzauber, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Fisch und Meeresfrüchte",
+      "Feinkost",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Kinder Bueno",
+    "description": "129 g, auch white, 117 g, 6er, (1 kg = 17,01 - 15,43)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Schokoriegel",
+      "Snacks",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "WZG MÖGLINGEN Trollinger mit Lemberger halbtrocken",
+    "description": "je 1-l-Fl.",
+    "price": "3.59",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Alkoholische Getränke",
+      "Halbtrockene Weine"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "PAMPERS Feuchttücher",
+    "description": "je 12 x 52-St.-Packg.",
+    "price": "8.99",
+    "store": "Kaufland",
+    "categories": [
+      "Babypflege",
+      "Hygiene",
+      "Feuchttücher"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Melitta Kaffee",
+    "description": "versch. Sorten, vakuum gemahlen, 500 g, (1 kg = 13,98)",
+    "price": "6.99",
+    "store": "Edeka",
+    "categories": [
+      "Kaffee",
+      "Heißgetränke",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Rumo Spaghetti No. 3",
+    "description": "versch. Sorten, 500 g, (1 kg = 1,98)",
+    "price": "0.99",
+    "store": "Edeka",
+    "categories": [
+      "Pasta",
+      "Grundnahrungsmittel",
+      "Italienische Küche"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Speisefrühkartoffeln",
+    "description": "je 2,5-kg-Sack",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Kartoffeln",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "WILLMS Schnelle Küche Schweinemedaillons",
+    "description": "je 500-g-Packg.",
+    "price": "5.49",
+    "store": "Kaufland",
+    "categories": [
+      "Fertiggerichte",
+      "Fleischprodukte",
+      "Tiefkühlkost"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "CHIEMSEE Damen-Zehengreifer",
+    "description": "je Paar",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Schuhe",
+      "Damenmode",
+      "Sommerartikel"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Langnese Cremissimo",
+    "description": "Bourbon Vanille , je 1300-ml-Becher , (1 l = 1,38)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Eiscreme",
+      "Desserts",
+      "Tiefkühlprodukte"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Tillman‘s Toasty Hähnchenbrustfilet",
+    "description": "tiefgefroren, 280 g, (1 kg = 9,96)",
+    "price": "2.79",
+    "store": "Edeka",
+    "categories": [
+      "Geflügel",
+      "Tiefkühlprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Barilla italienische Teigwaren",
+    "description": "versch. Ausformungen, 500 g, (1 kg = 1,98)",
+    "price": "0.99",
+    "store": "Edeka",
+    "categories": [
+      "Teigwaren",
+      "Pasta",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "BERTOLLI Grill- oder Brat-Olivenöl",
+    "description": "je 500-ml-Fl.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Speiseöle",
+      "Grillen",
+      "Mediterrane Küche"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Conditorei C&W Unsere Goldstücke",
+    "description": "tiefgefroren, versch. Sorten, 300 - 540 g, (1 kg = 4,97 - 2,76)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Backwaren",
+      "Tiefkühlprodukte",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Lätta Original",
+    "description": "je 450-g-Becher , (1 kg = 2,64)",
+    "price": "1.19",
+    "store": "Rewe",
+    "categories": [
+      "Butter & Margarine",
+      "Brotaufstriche",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Magnum Mini Mix Classic, Almond, White",
+    "description": "je 330-ml-Pckg",
+    "price": "0.00",
+    "store": "Rewe",
+    "categories": [
+      "Eiscreme",
+      "Tiefkühlprodukte",
+      "Desserts"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "GARDENA Gießstab »Classic«",
+    "description": "je",
+    "price": "17.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Gartenwerkzeuge"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "JÄGERMEISTER Kräuterlikör",
+    "description": "je 0,7-l-Fl.",
+    "price": "10.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spirituosen",
+      "Alkoholische Getränke",
+      "Liköre"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "K-CLASSIC Kartoffelsalat",
+    "description": "je 400-g-Becher",
+    "price": "1.19",
+    "store": "Kaufland",
+    "categories": [
+      "Fertiggerichte",
+      "Salate",
+      "Beilagen"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Garnier Wahre Schätze Shampoo",
+    "description": "versch. Sorten , je 250-ml-Fl , (1 l = 7,96)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Shampoo",
+      "Haarpflege",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "ja! Party-Nüsse",
+    "description": "Paprika , je 200-g-Btl , (1 kg = 6,45)",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Snacks",
+      "Knabberartikel",
+      "Nüsse"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "SPICE&SOUL® Pump-Isolierkanne",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltswaren",
+      "Küchengeräte",
+      "Getränkeaufbewahrung"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Ocean Beef",
+    "description": "zarte Rinderfilets, aus Neuseeland, 100 g",
+    "price": "4.44",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Rind",
+      "Neuseeland"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Géramont Scheiben mit Skyr",
+    "description": "je 150-g-Pckg , (1 kg = 15,27)",
+    "price": "2.29",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Scheibenkäse"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Gut & Günstig Gurken",
+    "description": "aus Spanien oder den Niederlanden, Klasse I, Stück",
+    "price": "0.59",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Salatzutaten"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "LEGO F1® Rennwagen 71049",
+    "description": "zum Sammeln, ab 6 Jahren\n je",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Spielzeug",
+      "Bausätze",
+      "Sammelartikel"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Jacobs Krönung",
+    "description": "versch. Sorten, gemahlener Bohnenkaffee , je 500-g-Pckg",
+    "price": "0.00",
+    "store": "Rewe",
+    "categories": [
+      "Kaffee",
+      "Heißgetränke",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "COUNTRYSIDE® Grillholzkohlebriketts",
+    "description": "je 5-kg-Packg.",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Grillbedarf",
+      "Garten & Freizeit",
+      "Holzkohle & Grillzubehör"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "ST. MANG Limburger oder Rubius",
+    "description": "je 180 - 200-g-Stück",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Pflanzen",
+      "Saisonale Artikel",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "K-PURLAND Bauchscheiben Western Style vom Schwein",
+    "description": "je 4 St. = 400-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch & Wurstwaren",
+      "Grillartikel",
+      "Schweinefleisch"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "¹Frische Schweinelenden/-filets",
+    "description": "ideal für zarte Medaillons, von Ihrem Metzgermeister 1A-zugeschnitten, 100g\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich.",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Schweinefleisch",
+      "Frischware"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "DOBAR Katzenkratzbaum »Kaktus«",
+    "description": "je",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Katzenzubehör",
+      "Haustierbedarf",
+      "Kratzmöbel"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Thomy reines Sonnenblumenöl",
+    "description": "oder reines Rapsöl, 0,75 L, (1 L = 3,32)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Speiseöl",
+      "Kochen & Backen",
+      "Pflanzenöl"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Géramont Weichkäse",
+    "description": "je 200-g-Pckg , (1 kg = 11,45)",
+    "price": "2.29",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "NIVEA SUN Sonnenschutz",
+    "description": "je 50 - 200-ml-Fl./Tube",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Sonnenschutzmittel",
+      "Körperpflege",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Donnerstag bis Samstag: ¹Péyrigoux",
+    "description": "französischer Weichkäse, mind. 60% Fett i. Tr., Weißschimmelrinde, mild-aromatisch, 100 g",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Frankreich",
+      "Weichkäse"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "L'ORÉAL PARIS Men Expert Gesichtspflege",
+    "description": "je 50-ml-Spender",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gesichtspflege",
+      "Herrenpflege",
+      "Feuchtigkeitscreme"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "CHIEMSEE Sneakersocken",
+    "description": "je 3 Paar",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Socken",
+      "Herrenbekleidung",
+      "Sportbekleidung"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Fleischkäseaufschnitt",
+    "description": "fein, grob, mit Zwiebeln oder mit Paprika, 100 g\n \n• ohne Zusatzstoffe",
+    "price": "0.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "SPICE&SOUL® Schneidebretter",
+    "description": "je 4-St.-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchenzubehör",
+      "Haushaltswaren",
+      "Kochutensilien"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Dtsch. Paprika",
+    "description": "je 500-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Regional"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "BESTRON Küchenmaschine »AKM900SS«",
+    "description": "je",
+    "price": "59.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchengeräte",
+      "Küchenmaschinen",
+      "Haushaltsgeräte"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "2.22",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Saisonartikel",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Eisbergsalat",
+    "description": "Kl. I , je St",
+    "price": "0.75",
+    "store": "Rewe",
+    "categories": [
+      "Gemüse",
+      "Salate",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "HASSERÖDER Premium Pils",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "price": "7.77",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "LEGO CREATOR »Spaceshuttle« Bauset 31134",
+    "description": "je 144-teilig",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Bausätze",
+      "Raumfahrt"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "IGLO Filegro",
+    "description": "je 240 - 250-g-Packg.",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlkost",
+      "Fischprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "George Washington Whiskey & Cola",
+    "description": "koffeinhaltig, Henderson Dry Gin & Tonic und weitere Sorten, 10% Vol., 0,33 L, zzgl. 0,25 Pfand, (1 L = 4,21)",
+    "price": "1.39",
+    "store": "Edeka",
+    "categories": [
+      "Fertigmixgetränke",
+      "Spirituosen",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "TALENTUS® Malkoffer",
+    "description": "je 76-teilig",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Kunstbedarf",
+      "Kinder",
+      "Schulartikel"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "PRINCESS Bubble-Waffeleisen »132470«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchengeräte",
+      "Backen",
+      "Waffeleisen"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Cremoulin",
+    "description": "französischer Weichkäse, mind. 50% Fett i. Tr., dünne rötlich-gelbe Rinde, elfenbein- farbener Teig, aromatisch, 100 g",
+    "price": "3.39",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Frankreich",
+      "Weichkäse"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Span./ital. Wassermelone, lose",
+    "description": "je kg",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Frischware",
+      "Saisonale Produkte"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Havana Club Añejo 3 Años",
+    "description": "37,5% Vol. oder Mango Lime 30% Vol. , je 0,7-l-Fl , (1 l = 15,70)",
+    "price": "10.99",
+    "store": "Rewe",
+    "categories": [
+      "Rum",
+      "Spirituosen",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Erasco Eintopf",
+    "description": "versch. Sorten, 390 - 400 g, (1 kg = 3,82 - 3,73)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Fertiggerichte",
+      "Suppen & Eintöpfe",
+      "Konserven"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "GRÜNLÄNDER Dtsch. Schnittkäse",
+    "description": "je 100 g",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "CHIEMSEE Herren-Retroboxer",
+    "description": "je 3-St.-Packg.",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Herrenunterwäsche",
+      "Bekleidung",
+      "Mehrfachpack"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "K-PURLAND Schweinegulasch",
+    "description": "je 500-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Schweinefleisch",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dtsch. Cherryrispentomaten, rot",
+    "description": "je 200-g-Schale",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Tomaten"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "K-PURLAND Grill-Mix XXL",
+    "description": "je kg",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch & Wurst",
+      "Grillen & BBQ",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Müller Müllermilch",
+    "description": "versch. Sorten , je 400-ml-Fl , (1 l = 1,98) , zzgl. 0,25 Pfand",
+    "price": "0.79",
+    "store": "Rewe",
+    "categories": [
+      "Milchgetränke",
+      "Kühlprodukte",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Meica Curry King",
+    "description": "versch. Sorten , je 220-g-Pckg , (1 kg = 8,14)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Wurstwaren",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Hofglück Maultaschen",
+    "description": "4er, auch Suppenmaultaschen, 12er, 320 g, (1 kg = 10,91)",
+    "price": "3.49",
+    "store": "Edeka",
+    "categories": [
+      "Frischeprodukte",
+      "Teigwaren",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Südafrik./peruan. Avocado, lose",
+    "description": "je Stück",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Exotische Früchte",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "BÖKLUNDER Aspik-Spezialität",
+    "description": "je 200-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Feinkost",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Hofkäse natur oder mit Bärlauch",
+    "description": "Schnittkäse, mind. 50% Fett i. Tr., vom Schulzenbauer’s Hof Schlat, aus artgerechter Haltung und gentechnikfreier Fütterung, 100 g",
+    "price": "2.79",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "regionale Produkte",
+      "Bio-Lebensmittel"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Elpozo Original Fuetec Spanische Salami",
+    "description": "luftgetrocknet , je 170-g-Pckg , (1 kg = 17,59)",
+    "price": "2.99",
+    "store": "Rewe",
+    "categories": [
+      "Wurstwaren",
+      "Spanische Spezialitäten",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "SWITCH ON® Dampfbügelstation »STS-A0301«",
+    "description": "je",
+    "price": "33.33",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltsgeräte",
+      "Bügeln & Pflege",
+      "Dampfbügelstationen"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Gebauer‘s Bergkäse",
+    "description": "mind. 50% Fett i. Tr., Allgäuer Hartkäse mit Rohmilch hergestellt, mind. 5 Monate gereift, aromatisch, fein-würzig im Geschmack, natürlich laktosefrei, 100 g",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "BARILLA Pasta-Sauce",
+    "description": "je 400-g-Glas",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Nudeln & Saucen",
+      "Italienische Lebensmittel",
+      "Fertigprodukte"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Patros Grill & Ofen Kräuter",
+    "description": "Weichkäse , je 150-g-Pckg , (1 kg = 11,93)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Grillprodukte",
+      "vegetarische Lebensmittel"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "ELNETT Haarspray",
+    "description": "je 300-ml-Dose",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haarpflege",
+      "Stylingprodukte",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Durex Gefühlsecht Classic Kondome",
+    "description": "8 Stück",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Kondome",
+      "Verhütungsmittel",
+      "Intimpflege"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Pollo fino",
+    "description": "eine Hähnchenspezialität aus der Keule, zum Kurzbraten oder Grillen, auch gewürzt, 100 g",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Geflügel",
+      "Grillfleisch",
+      "Frischfleisch"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Unsere Heimat – echt & gut Bio Bunte Salate",
+    "description": "aus Süddeutschland, versch. Sorten, Klasse II, Stück",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Salat",
+      "Bio-Produkte",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Span. Honigmelone, lose",
+    "description": "je Stück",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Exotische Früchte"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Fuze Tea",
+    "description": "versch. Sorten , je 1,25-l-Fl , (1 l = 1,03) , zzgl. 0,25 Pfand",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Teegetränke",
+      "alkoholfreie Getränke"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Unsere Heimat – echt & gut Bio Feldsalat oder Rucola",
+    "description": "aus Süddeutschland, Klasse II, 100 - 125 g, (1 kg = 24,90 – 19,92)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Salat",
+      "Bio-Produkte",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "2 Kisten¹ Stuttgarter Hofbräu Pilsner",
+    "description": "versch. Sorten, 2 x 20 x 0,5 L, zzgl. 6,20 Pfand\n \n• ¹Nicht mit anderen Aktionen oder Bar-Rabatt-Coupons kombinierbar., (1 L = 1,10)",
+    "price": "22.00",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Mehrwegprodukte"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "More Protein Iced Coffee oder Vanilla Ice Cream",
+    "description": "360 g",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Proteingetränke",
+      "Fertiggetränke",
+      "Milchalternativen"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "NIPPON Puffreis in Schokolade",
+    "description": "je 200-g-Packg.",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Snacks",
+      "Schokolade"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Gut & Günstig Zimtirollen",
+    "description": "300 g, (1 kg = 5,30)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Backwaren",
+      "Frühstück",
+      "Süßgebäck"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "K-PURLAND Puten-Ministeaks",
+    "description": "je 800-g-Großpackg.",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Geflügel",
+      "Fleisch",
+      "Grillen"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Schapfen Mühle Leinsamen geschrotet",
+    "description": "200 g, (1 kg = 3,95)",
+    "price": "0.79",
+    "store": "Edeka",
+    "categories": [
+      "Superfood",
+      "Backzutaten",
+      "Vegane Produkte"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "WILSON Basketball »MVP«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Sport & Freizeit",
+      "Basketball",
+      "Bälle"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Genussmanufaktur Föhr Kichererbsen",
+    "description": "Abtropfgewicht 220 g, 360 g, (1 kg = 8,14)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Hülsenfrüchte",
+      "Konserven",
+      "Vegane Lebensmittel"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Lieken Urkorn Brot",
+    "description": "versch. Sorten, 500 g, (1 kg = 2,22)",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Brot",
+      "Backwaren",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Ital. Pflücksalat",
+    "description": "je 125-g-Packg.",
+    "price": "0.89",
+    "store": "Kaufland",
+    "categories": [
+      "Salat",
+      "Frischeprodukte",
+      "Gemüse"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "TRESS Original Hausmacher Eier-Teigwaren",
+    "description": "je 500-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Teigwaren",
+      "Nudeln",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "DREAM@HOME Herren-Bademantel",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Herrenmode",
+      "Nachtwäsche",
+      "Badezimmerbedarf"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Kühne Gewürzgurken",
+    "description": "670 g, Abtropfgewicht 360 g, (1 kg = 4,42)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Eingelegtes Gemüse",
+      "Konserven",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Seeberger Walnusskerne",
+    "description": "150 g, (1 kg = 23,27)",
+    "price": "3.49",
+    "store": "Edeka",
+    "categories": [
+      "Nüsse",
+      "Snacks",
+      "Backzutaten"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Axe Bodyspray",
+    "description": "versch. Sorten, 150 ml, (1 L = 26,60)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Körperpflege",
+      "Deodorants",
+      "Herrenpflege"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "LEGO CITY »Feuerwehr-Hubschrauber« Spielset 60411",
+    "description": "je 85-teilig",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Bausätze",
+      "Feuerwehr"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "¹,²MSC Kabeljaufilets",
+    "description": "ohne Haut, aus Aquakultur, leicht bekömmliches Fleisch, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.\n \n• ²Aus einer MSC-zertifizierten nachhaltigen Fischerei. www.msc.org/de (MSC-C-52465). Nur in zertifizierten Märkten der EDEKA Südwest.",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Fisch und Meeresfrüchte",
+      "Tiefkühlprodukte",
+      "Nachhaltige Produkte"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "BECKSTEINER WEINHAUS Grauer Burgunder oder Schwarzriesling",
+    "description": "je 0,75-l-Fl.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Pfefferbeißer Würstchen",
+    "description": "vom Schwein, würzig leckere Vesperwurst, 100 g\n \n• ohne Zusatzstoffe",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Schweinefleischprodukte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "ALWAYS Damenbinden",
+    "description": "je 32 - 64-St.-Packg.",
+    "price": "6.75",
+    "store": "Kaufland",
+    "categories": [
+      "Hygiene",
+      "Damenhygiene",
+      "Monatsbedarf"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "¹Wolfsbarsch (Loup de Mer)",
+    "description": "aus Aquakultur, küchenfertig zubereitet, feiner Edelfisch mit weißem Fleisch, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Fisch und Meeresfrüchte",
+      "Frischetheke",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "TEINACHER Mineralwasser",
+    "description": "je Ka. 12 x 0,7-l-Fl.",
+    "price": "4.49",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Mineralwasser",
+      "alkoholfrei"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "ja! Kroketten",
+    "description": "für Backofen und Pfanne, tiefgefroren , je 750-g-Pckg , (1 kg = 2,39)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Tiefkühlprodukte",
+      "Kartoffelprodukte",
+      "Beilagen"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Span. Bio-Paprika, rot und gelb",
+    "description": "je 400-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Bio-Produkte",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "*Montags-Knüller: Kessler Sekt Gold",
+    "description": "oder Gold Rosé, 0,75 L\n \n• *Nur gültig am 19.05.25, (1 L = 5,92)",
+    "price": "4.44",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Sekt & Champagner",
+      "Angebote"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "CAPRI-SUN Fruchtsaftgetränk",
+    "description": "je 10 x 0,2-l-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Fruchtsäfte",
+      "Kinderprodukte"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "GARDENA Viereckregner »AquaZoom compact«",
+    "description": "je",
+    "price": "24.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bewässerung",
+      "Garten",
+      "Gartenzubehör"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "ja! Vanille Erdbeer Hörnchen",
+    "description": "je 6 x 120-ml-Pckg , (1 l = 2,76)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Speiseeis",
+      "Tiefkühlprodukte",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Weihenstephan Cremig & Quarkig",
+    "description": "versch. Sorten , je 500-g-Becher , (1 kg = 3,38)",
+    "price": "1.69",
+    "store": "Rewe",
+    "categories": [
+      "Milchprodukte",
+      "Quark",
+      "Dessert"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Rhabarber",
+    "description": "Kl. I , je 750-g-Pckg , (1 kg = 2,39)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Obst",
+      "Saisonale Produkte",
+      "Backzutaten"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "ERDINGER Weißbier oder Alkoholfrei",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "price": "13.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Persil Waschmittel Pulver, Gel",
+    "description": "oder Discs, versch. Sorten, 76 - 100 Waschladungen, (1 WL = 0,25 - 0,19)",
+    "price": "18.99",
+    "store": "Edeka",
+    "categories": [
+      "Waschmittel",
+      "Reinigung",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "GOURMET PÈRE & FILS Entrecôte Merlot Cabernet Syrah",
+    "description": "je 0,75-l-Fl.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Rotwein",
+      "Alkoholische Getränke",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "EXQUISA Milder Skyr Natur",
+    "description": "je 375 - 400-g-Becher",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Milchprodukte",
+      "Joghurt & Quark",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Thomy Delikatess-Mayonnaise",
+    "description": "je 250-ml-Glas , (1 l = 6,76)",
+    "price": "1.69",
+    "store": "Rewe",
+    "categories": [
+      "Saucen",
+      "Feinkost",
+      "Aufstriche"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Gut & Günstig Toilettenpapier Premium",
+    "description": "4-lagig, 10 x 200 Blatt",
+    "price": "4.55",
+    "store": "Edeka",
+    "categories": [
+      "Hygiene",
+      "Haushaltswaren",
+      "Papierprodukte"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "COUNTRYSIDE® LED-Solarleuchten",
+    "description": "je 5-St.-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenbeleuchtung",
+      "Solarleuchten",
+      "Außenbereich"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "²Nur diesen Samstag: Himbeeren",
+    "description": "aus Spanien oder Marokko, Klasse I, 125 g\n \n• ²Dieses Angebot ist nur am Samstag gültig., (1 kg = 12,72)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Sonderangebote"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Donnerstag bis Samstag: ²Frischer Steinbutt",
+    "description": "ganz, aus Aquakultur, 100 g\n \n• ²Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "3.49",
+    "store": "Edeka",
+    "categories": [
+      "Fisch",
+      "Frischware",
+      "Aquakultur"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Donnerstag bis Samstag: Zart gereiftes Rindfleisch – Rinder-Rouladen",
+    "description": "aus der Keule geschnitten, 100 g",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Rindfleisch",
+      "Frischwaren"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "K-FAVOURITES Irish-Beef-Burger",
+    "description": "je 2 St. = 260-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Burger",
+      "Grillen"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "L'ORÉAL PARIS Excellence Creme",
+    "description": "je Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haarfarbe",
+      "Kosmetik",
+      "Pflege"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Granini Fresh",
+    "description": "versch. Sorten , je 0,75-l-Fl , (1 l = 1,72) , zzgl. 0,25 Pfand",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Getränke",
+      "Fruchtsäfte",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "LIV&BO® WC-Sitz",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badezimmerzubehör",
+      "Sanitärbedarf",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "HEIDEGRUND Fleischwurst",
+    "description": "je 500-g-Stück",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Fleischprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "ZURU Seifenblasen-Blaster »Bunch O Bubbles«",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Outdoor",
+      "Sommerartikel"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Unsere Heimat – echt & gut Frische Demeter Bio-Heumilch",
+    "description": "1,8% Fett oder 3,8% Fett, 1 L, zzgl. 0,15 Pfand",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Bio-Produkte",
+      "Milchprodukte",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "KERRYGOLD Orig. irisch. Pizzakäse oder Cheddar",
+    "description": "je 120 - 150-g-Packg.",
+    "price": "1.39",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Frosch Waschmittel Flüssig oder Pulver",
+    "description": "versch. Sorten, 22 - 30 Waschladungen, (1 WL = 0,20 - 0,14)",
+    "price": "4.29",
+    "store": "Edeka",
+    "categories": [
+      "Waschmittel",
+      "Haushaltsreiniger",
+      "Nachhaltige Produkte"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "MAGGI Fix oder Würzpaste",
+    "description": "je 26 - 85-g-Beutel",
+    "price": "0.39",
+    "store": "Kaufland",
+    "categories": [
+      "Gewürze & Würzmittel",
+      "Fertiggerichte & Saucen",
+      "Kochzutaten"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "LIV&BO® Sprechende Personenwaage »SPWS 1«",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltsgeräte",
+      "Gesundheit",
+      "Elektronik"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Bartnelken oder Spraynelken",
+    "description": "je Bund",
+    "price": "2.29",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Schnittblumen",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "VELTINS V+ Biermischgetränke",
+    "description": "je Packg. 6 x 0,33-l-Fl.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Mischgetränke",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Wagner Creazione Caprese",
+    "description": "tiefgefroren , je 435-g-Pckg , (1 kg = 10,32)",
+    "price": "4.49",
+    "store": "Rewe",
+    "categories": [
+      "Tiefkühlpizza",
+      "Italienische Küche",
+      "Vegetarische Produkte"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Appenzeller classic",
+    "description": "Schweizer Hartkäse aus Rohmilch hergestellt, mind. 48% Fett i. Tr., sein Geheimnis ist die Kräutersulz, mind. 12 Wochen gereift, mild-würzig im Geschmack, natürlich laktosefrei, 100 g",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Schweizer Spezialitäten",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "DANY Sahne oder Mousse",
+    "description": "je 2 x 60 - 115-g-Becher",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Desserts",
+      "Milchprodukte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Listerine Cool Mint Mundspülung",
+    "description": "500 ml, (1 L = 5,98)",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Mundhygiene",
+      "Mundspülungen",
+      "Zahnpflege"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Deit Limonade",
+    "description": "versch. Sorten, 12 x 1 L, zzgl. 3,30 Pfand, (1 L = 0,75)",
+    "price": "8.99",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Erfrischungsgetränke",
+      "Limonade"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Ensinger Sport",
+    "description": "versch. Sorten, 12 x 0,75 L, zzgl. 3,30 Pfand, (1 L = 0,61)",
+    "price": "5.49",
+    "store": "Edeka",
+    "categories": [
+      "Wasser",
+      "Getränke",
+      "Mehrweg"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "EDEKA Genuss Kaffeefilter",
+    "description": "Größe 4, besonders reißfest, naturbraun und ungebleicht, 80 Stück\n \n• In den Scheck-In Centern Bühlertal, Heidelberg Kurfürstenanlage 21-23, Heidelberg-Bahnstadt, Frankfurt-Sachsenhausen Hainer Weg 56-80, Frankfurt-Niederrad Hahnstraße 37-41 und Offenbach nicht erhältlich",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Kaffeezubehör",
+      "Haushaltswaren",
+      "Einwegartikel"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Pahmeyer Schinken-Rösti",
+    "description": "je 240-g-Schale , (1 kg = 7,46)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Kartoffelprodukte",
+      "Fleischwaren"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "CHIEMSEE Strandmatte",
+    "description": "je",
+    "price": "15.99",
+    "store": "Kaufland",
+    "categories": [
+      "Freizeit",
+      "Outdoor",
+      "Badausstattung"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "LENOR Voll- oder Colorwaschmittel",
+    "description": "je",
+    "price": "3.79",
+    "store": "Kaufland",
+    "categories": [
+      "Waschmittel",
+      "Haushaltswaren",
+      "Reinigungsprodukte"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Schwarzwaldmilch haltbare Weidemilch",
+    "description": "1,5% oder 3,8% Fett, 1 L",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Milch",
+      "Getränke",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "¹Leerdammer Caractère",
+    "description": "holländischer Schnittkäse aus Kuhmilch, mind. 48% Fett i. Tr., 15 Wochen gereift, herzhaft-intensiv im Geschmack, bissfest in der Konsistenz, 100 g\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich.",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Feinkost",
+      "internationale Spezialitäten"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Fol Epi Classic",
+    "description": "frz. Schnittkäse , je 150-g-Pckg , (1 kg = 9,93)",
+    "price": "1.49",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Dtsch. Cocktailrispentomaten",
+    "description": "je 350-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Tomaten"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Demeter Unsere Heimat – echt & gut Bio-Joghurt mild",
+    "description": "aus Bio-Heumilch, mind. 3,8% Fett, 500 g, zzgl. 0,15 Pfand, (1 kg = 3,18)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Bio-Produkte",
+      "Milchprodukte",
+      "Joghurt"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "FERRERO Eis",
+    "description": "je 4 St. = 200 - 360-ml-Packg.",
+    "price": "2.79",
+    "store": "Kaufland",
+    "categories": [
+      "Eiscreme",
+      "Süßwaren",
+      "Tiefkühlprodukte"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Gemüsepflanzen",
+    "description": "je",
+    "price": "1.11",
+    "store": "Kaufland",
+    "categories": [
+      "Pflanzen",
+      "Garten",
+      "Gemüse"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Adler Edelcreme",
+    "description": "versch. Sorten, 100 g, (1 kg = 14,90)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Brotaufstrich",
+      "Molkereiprodukte"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Bio Black Forest Ice Cream",
+    "description": "tiefgefroren, versch. Sorten, 450 ml\n \n• Von der Schwarzwälder-Eismanufaktur, (1 L = 8,87)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Speiseeis",
+      "Bio-Produkte",
+      "Tiefkühlkost"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "MAGGI Würze",
+    "description": "je 250-g-Fl.",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Würzmittel",
+      "Soßen",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Einhorn-Muffin",
+    "description": "je Stück",
+    "price": "1.19",
+    "store": "Kaufland",
+    "categories": [
+      "Backwaren",
+      "Süßwaren",
+      "Kinderprodukte"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Gebauer‘s Metzgerhinterschinken",
+    "description": "saftig und mager, 100 g",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Schinken"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "¹Lachsfleisch „Graved Art“",
+    "description": "die anspruchsvolle Delikatesse, hergestellt aus dem Schweinelachsschinken, mariniert nach alter Rezeptur, verfeinert mit erlesenen Kräutern, mild und zart im Geschmack, 100 g\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich.",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Fleischwaren",
+      "Delikatessen",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "ZURU Pets Alive »Mama Bunny & Baby Surprise«",
+    "description": "je 12-teilig",
+    "price": "17.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Sammelfiguren",
+      "Plüschtiere"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Lilien",
+    "description": "je Bund",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Pflanzen",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Unsere Heimat – echt & gut Auberginen",
+    "description": "aus Süddeutschland, Klasse I, Stück",
+    "price": "1.00",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Regional",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Leicht & Cross Knusperbrot",
+    "description": "versch. Sorten , je 125-g-Pckg , (1 kg = 7,92)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Brot",
+      "Knäckebrot",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Mini Wassermelonen",
+    "description": "aus Italien oder Spanien, Klasse I, Stück\n \n• ganze Früchte",
+    "price": "3.33",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Sommerartikel"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "KINDER Choco fresh oder Paradiso",
+    "description": "je 4 - 5 St. = 102,5 - 116-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Snacks",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "RÜGENWALDER MÜHLE Pommersche Gutsleberwurst",
+    "description": "je 100 g",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Brotaufstrich"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "BRÄNDLE Vita-Rapsöl oder BIOVIT Bio-Sonnenblumenöl",
+    "description": "je 500 - 750-ml-Fl.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Speiseöl",
+      "Lebensmittel",
+      "Kochen"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "SOMERSBY Cider",
+    "description": "je Packg. 4 x 0,33-l-Fl.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Alkoholische Getränke",
+      "Cider"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "GARDENA Schlauchverbinder 1/2 bis 5/8 Zoll",
+    "description": "je",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Schlauchverbinder"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "FELICETTI Pasta",
+    "description": "je 500-g-Packg.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Nudeln",
+      "Lebensmittel",
+      "Italienische Spezialitäten"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "K-BLUE BAY Garnelenspieße",
+    "description": "je 4 St. = 120-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fisch & Meeresfrüchte",
+      "Tiefkühlkost",
+      "Grillprodukte"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "LIV&BO® Frottier-Handtücher",
+    "description": "je 2-St.-Packg.",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Handtücher",
+      "Badezimmer",
+      "Haushaltswaren"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "¹Bio-Lyoner",
+    "description": "250 g\n \n• Glutenfrei\n \n• Laktosefrei\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich., (1 kg = 15,96)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Bio-Produkte",
+      "Gluten- und laktosefreie Lebensmittel"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "PEPSI, SCHWIP SCHWAP oder 7UP Erfrischungsgetränk",
+    "description": "je 1,25-l-PET-Fl.",
+    "price": "0.69",
+    "store": "Kaufland",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Softdrinks",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "VICI Lachsfilet-Portionen",
+    "description": "je 200-g-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fisch",
+      "Tiefkühlkost",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "SIMMLER Konfitüre Extra",
+    "description": "je 450-g-Glas",
+    "price": "3.29",
+    "store": "Kaufland",
+    "categories": [
+      "Aufstrich",
+      "Frühstück",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Dtsch. San Marzano Tomaten",
+    "description": "je 400-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Konservendosen",
+      "Tomatenprodukte",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "GENIUS Küchenhelfer »Minis« 3er-Kombi-Set",
+    "description": "je 13-teilig",
+    "price": "17.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchenzubehör",
+      "Haushaltswaren",
+      "Kochutensilien"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Württemberg Lauffener Katzenbeisser Schwarzriesling",
+    "description": "Q.b.A., auch trocken oder Schwarzriesling Weißherbst, Q.b.A., 1 L, zzgl. 0,02 Pfand\n \n• fruchtbetont, harmonisch\n \n• 16–18 °C",
+    "price": "4.49",
+    "store": "Edeka",
+    "categories": [
+      "Wein",
+      "Rotwein",
+      "Schwarzriesling"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Ariel Colorwaschmittel flüssig",
+    "description": "je 20-WL-Fl , (1 WL = 0,25)",
+    "price": "4.99",
+    "store": "Rewe",
+    "categories": [
+      "Waschmittel",
+      "Haushaltswaren",
+      "Reinigungsmittel"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "MAUI Kleinkinder-Clogs",
+    "description": "je Paar",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Kinderschuhe",
+      "Sommermode",
+      "Freizeitartikel"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "METEORA Griech. Schafskäse leicht",
+    "description": "je 150-g-Packg.",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Griechische Spezialitäten",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "K-FAVOURITES US-Beef-Burger vom amerikan. Angusrind",
+    "description": "je 2 St. = 250-g-Packg.",
+    "price": "3.49",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch & Wurstwaren",
+      "Burger & Grillprodukte",
+      "Tiefkühlkost"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "K-PURLAND Putenschnitzel mariniert",
+    "description": "je 500-g-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Geflügel",
+      "Fertig mariniertes Fleisch",
+      "Grillprodukte"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "LINDT Pralinés Hochfein",
+    "description": "je 200-g-Packg.",
+    "price": "8.99",
+    "store": "Kaufland",
+    "categories": [
+      "Pralinen",
+      "Schokolade",
+      "Geschenke"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Oro di Parma Tomaten",
+    "description": "versch. Sorten, Abtropfgewicht 240 - 400 g, (1 kg = 5,38 - 3,23)",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Konservendosen",
+      "Tomatenprodukte",
+      "Küchenbasics"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Danone Activia",
+    "description": "versch. Sorten, 4 x 115 g, (1 kg = 3,24)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Joghurt",
+      "Milchprodukte",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "SÜDZUCKER Gelier-Rübenzucker 2:1 XXL",
+    "description": "je 1-kg-Packg.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Zucker",
+      "Backzutaten",
+      "Konservieren"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "KIDLAND® Seifenblasenmaschine »Rasenmäher«",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Outdoor",
+      "Kinder"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "ROTHAUS Tannenzäpfle",
+    "description": "je Ka. 24 x 0,33-l-Fl.",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "K-PURLAND Pfeffersteak vom Jungbullen, mariniert und gereift",
+    "description": "je kg",
+    "price": "17.95",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Grillen",
+      "Rind"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "DER GRÜNE ALTENBURGER Ziegencreme 26 % Fett absolut",
+    "description": "je 150-g-Becher",
+    "price": "2.22",
+    "store": "Kaufland",
+    "categories": [
+      "Frischkäse",
+      "Ziegenkäse",
+      "Brotaufstrich"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Rügenwalder Mühlen Mett oder Mühlen Schinken",
+    "description": "je 100-g-Pckg , (1 kg = 17,90)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Vegetarische Fleischalternativen",
+      "Aufschnitt & Wurst",
+      "Frühstück & Brotzeit"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "GOURMETMAXX Sandwichtoaster »13805«",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchengeräte",
+      "Frühstückszubehör",
+      "Elektrogeräte"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Knorr Pasta Pot",
+    "description": "Käse & Sahne , je 63-g-Becher , (1 kg = 15,71)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Pasta",
+      "Instantgerichte"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "BIONELLA Bio-Nuss-Nougat-Creme",
+    "description": "je 750-g-Glas",
+    "price": "5.55",
+    "store": "Kaufland",
+    "categories": [
+      "Bio-Lebensmittel",
+      "Aufstriche",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "PILSNER URQUELL Pils",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Maggi Fix",
+    "description": "Lasagne , je 30-g-Btl , (1 kg = 16,33)",
+    "price": "0.49",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Gewürzmischungen",
+      "Italienische Küche"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Bioland Schweinerückensteaks",
+    "description": "grillfertig gewürzt, SB-verpackt, 100 g",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Grillen",
+      "Bio-Produkte"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "MEZZACORONA Pinot Grigio, Merlot, Moscato oder Chardonnay",
+    "description": "je 0,75-l-Fl.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Chrysanthemen Mix oder Levkojen",
+    "description": "je Bund",
+    "price": "3.49",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Deko",
+      "Geschenkideen"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "MELITTA Kaffeemaschine »AromaFresh II« (1030-07)",
+    "description": "je",
+    "price": "149.00",
+    "store": "Kaufland",
+    "categories": [
+      "Kaffeemaschinen",
+      "Küchengeräte",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "ELINAS Joghurt nach griech. Art",
+    "description": "je 4 x 150-g-Becher",
+    "price": "1.69",
+    "store": "Kaufland",
+    "categories": [
+      "Joghurt",
+      "Griechische Spezialitäten",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "EDEKA Südwest Feuerwurst",
+    "description": "geräucherte Rindswurst mit Chili, 400 g, (1 kg = 12,48)",
+    "price": "4.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Grillprodukte",
+      "Scharfe Lebensmittel"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Bitburger Premium Pils",
+    "description": "und weitere Sorten, 20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,15)",
+    "price": "11.49",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "HIPP Bio-Knabber-Snacks",
+    "description": "je 30-g-Packg.",
+    "price": "0.75",
+    "store": "Kaufland",
+    "categories": [
+      "Babynahrung",
+      "Snacks",
+      "Bio-Produkte"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Alpro Haferdrink",
+    "description": "This is not milk!, 1 L",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Pflanzliche Milchalternativen",
+      "Getränke",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "K-CLASSIC Thunfischfilets",
+    "description": "je 185 - 195-g-Dose",
+    "price": "1.11",
+    "store": "Kaufland",
+    "categories": [
+      "Konserven",
+      "Fisch & Meeresfrüchte",
+      "Aufstriche & Salate"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "K-PURLAND Schweineschnitzel",
+    "description": "je 600-g-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Schweinefleisch",
+      "Frischprodukte"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Popp Brotaufstrich",
+    "description": "versch. Sorten , je 150-g-Becher , (1 kg = 6,60)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Brotaufstriche",
+      "Vegane Produkte",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "K-PURLAND Schweinehackfleisch",
+    "description": "je 500-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Schwein",
+      "Hackfleisch"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Mozzarella di Bufala",
+    "description": "mind. 56% Fett i. Tr., Büffelmozzarella, italienische Pasta filata, milchig-frisch im Geschmack, 100 g",
+    "price": "2.29",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Italienische Spezialitäten",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Leberwurst mit Kalbfleisch",
+    "description": "je 100 g",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "ja! Frische Salatschale",
+    "description": "versch. Sorten , je 300-g-Schale , (1 kg = 8,30)",
+    "price": "2.49",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Salate",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "LEIFHEIT Wischbezug Classic XL microfibre",
+    "description": "Rundumwischbezug aus hochwertigen Mikrofasern, waschbar bei 60 °C",
+    "price": "6.49",
+    "store": "Edeka",
+    "categories": [
+      "Haushaltswaren",
+      "Reinigungszubehör",
+      "Putzutensilien"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Ital. Rucola",
+    "description": "je 125-g-Packg.",
+    "price": "0.89",
+    "store": "Kaufland",
+    "categories": [
+      "Salat",
+      "Gemüse",
+      "Frische Produkte"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Krombacher Pils oder Jever Pilsener",
+    "description": "auch Fun Alkoholfrei, 0,5 L, zzgl. 0,25 Pfand, (1 L = 1,58)",
+    "price": "0.79",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkoholfreie Getränke"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "SPICE&SOUL® Schneidebretter",
+    "description": "je 2-St.-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchenzubehör",
+      "Kochutensilien",
+      "Haushaltswaren"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Granini Die Limo",
+    "description": "versch. Sorten , je 1-l-Fl , zzgl. 0,25 Pfand",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Softdrinks",
+      "Limonade"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Zespri Sungold Kiwi",
+    "description": "Kl. I , je St",
+    "price": "0.59",
+    "store": "Rewe",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Einzelstücke"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Gemüsepflanzen",
+    "description": "je",
+    "price": "2.22",
+    "store": "Kaufland",
+    "categories": [
+      "Pflanzen",
+      "Garten",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "NADLER Matjesfilets",
+    "description": "je 300-g-Packg.",
+    "price": "2.79",
+    "store": "Kaufland",
+    "categories": [
+      "Fisch",
+      "Tiefkühlprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Thomy Delikatess Mayonnaise",
+    "description": "je 200-ml-Tube , (1 l = 8,45)",
+    "price": "1.69",
+    "store": "Rewe",
+    "categories": [
+      "Mayonnaise",
+      "Saucen & Dips",
+      "Würzmittel"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Andechser Natur Bio Jogurt mild",
+    "description": "3,8% Fett , je 500-g-Becher , (1 kg = 2,22)",
+    "price": "1.11",
+    "store": "Rewe",
+    "categories": [
+      "Joghurt",
+      "Bio-Produkte",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "PARKSIDE® Gießkanne mit Sprühflasche",
+    "description": "je",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Garten",
+      "Bewässerung",
+      "Gartenwerkzeug"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "K-PURLAND Schweinenackensteak Bockbier Style",
+    "description": "je 750-g-Packg.",
+    "price": "4.69",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Grillen",
+      "Fertigmarinaden"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Heuchelberg Weingärtner Trollinger Rosé",
+    "description": "versch. Sorten, 0,75 L, (1 L = 5,32)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Rosé"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "SCHWABEN KRONE Maultaschen",
+    "description": "je 4 St. = 400-g-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fertiggerichte",
+      "Teigwaren",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "BÄRENMARKE Kakao oder Eiskaffee",
+    "description": "je 1-l-Packg.",
+    "price": "1.59",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Milchprodukte",
+      "Fertiggetränke"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Almdudler Kräuterlimo",
+    "description": "auch zuckerfrei, 1 L, zzgl. 0,25 Pfand",
+    "price": "1.19",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Limonade",
+      "Zuckerfrei"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Tanqueray London Dry Gin",
+    "description": "43,1% Vol., 0,7 L, (1 L = 22,84)",
+    "price": "15.99",
+    "store": "Edeka",
+    "categories": [
+      "Gin",
+      "Spirituosen",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Nivea Q10 Anti-Falten Power",
+    "description": "straffende Tagespflege LSF 15 , je 50-ml-Tiegel-Pckg , (1 l = 219,80)",
+    "price": "10.99",
+    "store": "Rewe",
+    "categories": [
+      "Gesichtspflege",
+      "Anti-Aging",
+      "Tagescreme"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Möhrenstifte",
+    "description": "je 200-g-Btl , (1 kg = 3,95)",
+    "price": "0.79",
+    "store": "Rewe",
+    "categories": [
+      "Gemüse",
+      "Tiefkühlkost",
+      "Convenience"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Rote Tafeläpfel",
+    "description": "»Cripps Pink«, Kl. I , je 1 kg/1-kg-Schale",
+    "price": "2.49",
+    "store": "Rewe",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Regional & Saisonal"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Donnerstag bis Samstag: ¹Flusskrebs-Spargelsalat",
+    "description": "Louisiana-Flusskrebsschwänze mit zartem Spargel und fruchtig-süßer Mango, in einem cremigen Dressing mit Sahne und Frischkäse, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Fisch & Meeresfrüchte",
+      "Feinkostsalate",
+      "Saisonale Angebote"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "VÖSLAUER Erfrischungsgetränk",
+    "description": "je 1-l-PET-Fl.",
+    "price": "0.59",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Erfrischungsgetränke",
+      "Mineralwasser"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Unsere Heimat – echt & gut Lauchzwiebeln",
+    "description": "aus Süddeutschland, Bund",
+    "price": "0.79",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Regional"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "PAULANER Spezi oder Limo",
+    "description": "je 0,33-l-Dose",
+    "price": "0.69",
+    "store": "Kaufland",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Softdrinks",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Alpirsbacher Schwarzwald Michel Helles",
+    "description": "20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,70)",
+    "price": "16.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkoholhaltige Getränke"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "ZURU Bunch O Balloons »Tropical Party«",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wasserspielzeug",
+      "Sommerartikel",
+      "Partyzubehör"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "PRINGLES",
+    "description": "je 160 - 165-g-Dose",
+    "price": "1.89",
+    "store": "Kaufland",
+    "categories": [
+      "Snacks",
+      "Chips",
+      "Knabberartikel"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Hohes C Saft",
+    "description": "versch. Sorten, ausgenommen 100% Orangensäfte , je 1-l-Fl , zzgl. 0,25 Pfand",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Getränke",
+      "Säfte",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "MÜLLER Müllermilch",
+    "description": "je 400-ml-Fl.",
+    "price": "0.79",
+    "store": "Kaufland",
+    "categories": [
+      "Milchgetränke",
+      "Kühlregal",
+      "Convenience-Produkte"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Weideglück Donautaler Butterkäse",
+    "description": "Schnittkäse, mind. 45% Fett i.Tr. , je 100 g",
+    "price": "0.89",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Unsere Heimat – echt & gut Paprika rot oder gelb",
+    "description": "aus Süddeutschland, Klasse I, Stück",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Regional",
+      "Frischware"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "KETTLE COOKED Kartoffelchips",
+    "description": "je 150-g-Packg.",
+    "price": "1.29",
+    "store": "Kaufland",
+    "categories": [
+      "Snacks",
+      "Chips",
+      "Salzgebäck"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Aronal und Elmex Zahncreme",
+    "description": "2 x 75 ml, (1 L = 39,93)",
+    "price": "5.99",
+    "store": "Edeka",
+    "categories": [
+      "Zahnpasta",
+      "Mundhygiene",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "OBERBRÄU Hell",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Tress Teigwaren Großmutters Küche",
+    "description": "versch. Ausformungen, 500 g, (1 kg = 4,44)",
+    "price": "2.22",
+    "store": "Edeka",
+    "categories": [
+      "Nudeln & Teigwaren",
+      "Grundnahrungsmittel",
+      "Pasta"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "ZOTT Zottarella Mini",
+    "description": "je 250-g-Packg.",
+    "price": "1.69",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Mozzarella",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Katjes Fruchtgummi",
+    "description": "ohne tierische Gelatine, versch. Sorten, 175 g, (1 kg = 3,94)",
+    "price": "0.69",
+    "store": "Edeka",
+    "categories": [
+      "Fruchtgummi",
+      "Vegane Süßigkeiten",
+      "Nascherei"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Tefal Dampfbürste DT1020",
+    "description": "klappbar, nach 25 Sekunden Einsatzbereit, 20g/min Dampfleistung, 70ml Wassertank, 1.200 Watt\n \n• PAYBACK Angebote nur in teilnehmenden Märkten",
+    "price": "29.99",
+    "store": "Edeka",
+    "categories": [
+      "Haushaltsgeräte",
+      "Bügeln & Textilpflege",
+      "Elektronik"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "KÜHNE Dressing",
+    "description": "je 500-ml-Fl.",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Salatdressings",
+      "Lebensmittel",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Aoste Stickado",
+    "description": "versch. Sorten, 60 - 70 g, (1 kg = 29,83 - 25,57)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Snacks",
+      "Wurstwaren",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "LEIFHEIT Bodenwischer Classic XL microfibre",
+    "description": "der perfekte Bodenwischer für die Reinigung zwischendurch, Wischbreite: 42 cm, Teleskopstiel 75?130 cm, integrierte Tuchklemme für die Nutzung von Ein-oder Mehrwegtüchern\n \n• 360° Drehgelenk",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Haushaltswaren",
+      "Reinigungszubehör",
+      "Bodenpflege"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "D’Arbo Naturrein Konfitüre Extra",
+    "description": "versch. Sorten , je 450-g-Glas",
+    "price": "0.00",
+    "store": "Rewe",
+    "categories": [
+      "Aufstriche",
+      "Frühstück",
+      "Marmelade"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Nur diesen Freitag: ¹,²MSC Seelachsfilets",
+    "description": "Fanggebiet Nordostatlantik, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.\n \n• ²Aus einer MSC-zertifizierten nachhaltigen Fischerei. www.msc.org/de (MSC-C-52465). Nur in zertifizierten Märkten der EDEKA Südwest.",
+    "price": "1.39",
+    "store": "Edeka",
+    "categories": [
+      "Fisch",
+      "Meeresfrüchte",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Wiltmann Deutsches Corned Beef",
+    "description": "gepökeltes Rindfleisch gegart, mit delikater Fleischbrühe aufgegossen, 100 g",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Fleischkonserven",
+      "Aufschnitt & Wurstwaren",
+      "Deutsche Spezialitäten"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "REINERT Würzica",
+    "description": "je 100 g",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Fleischwaren",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Dtsch. Rispentomaten",
+    "description": "je 650-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Tomaten"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "K-FAVOURITES Oliven",
+    "description": "je 150-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Snacks",
+      "Antipasti",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "TRUE FRUITS Smoothie",
+    "description": "je 0,75-l-Fl.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Smoothies",
+      "Getränke",
+      "Fruchtsäfte"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Always discreet",
+    "description": "versch. Sorten, 10 - 16 Stück",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Hygiene",
+      "Damenhygiene",
+      "Inkontinenzprodukte"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "K-PURLAND Schweinenacken/-kamm XXL ohne Knochen",
+    "description": "je kg",
+    "price": "5.49",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Schweinefleisch",
+      "Grillen"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "BRESSO Frischkäse oder Frischkäsezubereitung",
+    "description": "je 120 - 150-g-Packg.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Brotaufstrich",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "2.79",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Deko",
+      "Garten"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "EDEKA Bio Bioland Bergkäse mit Heumilch",
+    "description": "mind. 50% Fett i. Tr. oder Emmentaler, mind. 45% Fett i. Tr., 200 g, (1 kg = 12,45)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Bio-Produkte",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Bubble Tea",
+    "description": "versch. Sorten , je 500-ml-Becher , (1 l = 7,98) , zzgl. 0,25 Pfand",
+    "price": "3.99",
+    "store": "Rewe",
+    "categories": [
+      "Getränke",
+      "Erfrischungsgetränke",
+      "Fertigprodukte"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "BLOCK HOUSE Sauce",
+    "description": "je 240-ml-Fl.",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Grillsaucen",
+      "Feinkost",
+      "Würzmittel"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Schwarzwald-Sprudel Mango-Maracuja-Orange",
+    "description": "12 x 0,7 L, zzgl. 3,30 Pfand, (1 L = 0,95)",
+    "price": "7.99",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Fruchtschorlen",
+      "Getränke Multipacks"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Lorenz Pommels",
+    "description": "je 75-g-Btl , (1 kg = 14,80)",
+    "price": "1.11",
+    "store": "Rewe",
+    "categories": [
+      "Snacks",
+      "Chips",
+      "Kartoffelprodukte"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "MÜLLER Joghurt mit der Ecke",
+    "description": "je 115 - 150-g-Becher",
+    "price": "0.39",
+    "store": "Kaufland",
+    "categories": [
+      "Joghurt",
+      "Milchprodukte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Putenspieße",
+    "description": "natur oder mit würziger Marinade, z. B. Putenspieße „Curry“, 100 g",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch & Geflügel",
+      "Grillartikel",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Fa Deospray",
+    "description": "versch. Sorten , je 150-ml-Dose , (1 l = 8,60)",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Körperpflege",
+      "Deodorants",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "K-BIO Bio-Erdnusskerne geröstet & gesalzen",
+    "description": "je 200-g-Packg.",
+    "price": "1.69",
+    "store": "Kaufland",
+    "categories": [
+      "Nüsse & Kerne",
+      "Bio-Produkte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Käserote",
+    "description": "100 g\n \n• ohne Zusatzstoffe",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "vegetarisch"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Kinder Maxi King",
+    "description": "3er, 105 g, Milchschnitte, 5er, 140 g oder Kinder Pingui, 4er, 120 g, (1 kg = 13,24 - 9,93)",
+    "price": "1.39",
+    "store": "Edeka",
+    "categories": [
+      "Kühlregal",
+      "Süßwaren",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "DREAM@HOME Damen-Bademantel",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bekleidung",
+      "Damenmode",
+      "Heimtextilien"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "COUNTRYSIDE® Buchen-Holzkohle",
+    "description": "je 5-kg-Packg.",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Grillen",
+      "Brennstoffe",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Meggle Kräuterbutter",
+    "description": "versch. Sorten, 100 g, (1 kg = 15,90)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Butter & Streichfette",
+      "Brotaufstriche",
+      "Grillzubehör"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Bananen",
+    "description": "Ursprung: siehe Etikett , je 1 kg",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Krumbach Mineralwasser",
+    "description": "versch. Sorten, z. B. Medium 12 x 0,7 L, zzgl. 3,30 Pfand, (1 L = 0,48)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Mineralwasser",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Schweitzers Schüümli Kaffee oder Espresso",
+    "description": "versch. Sorten, ganze Bohnen, 1 kg",
+    "price": "13.99",
+    "store": "Edeka",
+    "categories": [
+      "Kaffee",
+      "Getränke",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Maggi Minions Tomatensuppe",
+    "description": "ausreichend für 500 ml , je Btl",
+    "price": "0.69",
+    "store": "Rewe",
+    "categories": [
+      "Fertigsuppen",
+      "Kinderlebensmittel",
+      "Tütensuppen"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "WUNDERGARTEN Tomaten- und Gemüseerde",
+    "description": "je 20-l-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Erde & Substrate",
+      "Gartenbedarf",
+      "Pflanzenschutz & Pflege"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "K-PURLAND Kalbsburger",
+    "description": "je 2 St. = 250-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch & Wurstwaren",
+      "Grillprodukte",
+      "Burger & Patties"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Finish Powerball Power Classic",
+    "description": "64 Tabs oder Ultimate, 46 Caps, (1 WL = 0,17 - 0,12)",
+    "price": "7.99",
+    "store": "Edeka",
+    "categories": [
+      "Geschirrspülmittel",
+      "Haushaltswaren",
+      "Reinigungsmittel"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Chin. Ingwer, lose",
+    "description": "je 100 g",
+    "price": "0.49",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Wurzelgemüse",
+      "Asiatische Küche"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Baguette",
+    "description": "400 g, (1 kg = 5,00)",
+    "price": "2.00",
+    "store": "Edeka",
+    "categories": [
+      "Brot",
+      "Backwaren",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Bonduelle Bio Goldmais",
+    "description": "300 g, Abtropfgewicht 285 g, (1 kg = 6,63)",
+    "price": "1.89",
+    "store": "Edeka",
+    "categories": [
+      "Konserven",
+      "Gemüse",
+      "Bio-Produkte"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Donnerstag bis Samstag: Weihenstephan Rahmjoghurt",
+    "description": "oder Fruchtquark, versch. Sorten, 150 g, (1 kg = 3,27)",
+    "price": "0.49",
+    "store": "Edeka",
+    "categories": [
+      "Molkereiprodukte",
+      "Joghurt & Quark",
+      "Desserts"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Zespri Kiwis Gold Jumbo",
+    "description": "aus Neuseeland, Klasse I, Stück",
+    "price": "1.00",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Exotische Früchte",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Regina Softis Taschentücher",
+    "description": "30 x 9er",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Haushaltswaren",
+      "Hygieneprodukte",
+      "Papierwaren"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Geiger PriSecco weißduftig",
+    "description": "alkoholfreier Aperitif, 0,75 L, (1 L = 11,99)",
+    "price": "8.99",
+    "store": "Edeka",
+    "categories": [
+      "Alkoholfreie Getränke",
+      "Aperitifs",
+      "Spezialitäten"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Exquisa Quark Genuss",
+    "description": "versch. Sorten, auch Quark Creme Natur,  500 g, Fitline Protein, versch. Sorten, 400 g, (1 kg = 3,98 - 3,18)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Milchprodukte",
+      "Desserts",
+      "Proteinprodukte"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "GÖZZE Strandtuch",
+    "description": "Größe: 90 x 180 cm, versch. Designs\n je",
+    "price": "16.99",
+    "store": "Edeka",
+    "categories": [
+      "Handtücher",
+      "Strandzubehör",
+      "Badtextilien"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "BEN'S ORIGINAL Fix Sauce",
+    "description": "je 400-g-Glas",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Fertigsaucen",
+      "Internationale Küche",
+      "Beilagen"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "STORCK Mamba",
+    "description": "je 290-g-Packg.",
+    "price": "1.59",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Kaugummi & Kaubonbons",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "MEBUS Galaxieprojektor »Astronaut«",
+    "description": "je",
+    "price": "24.99",
+    "store": "Kaufland",
+    "categories": [
+      "Beleuchtung",
+      "Kinderzimmer",
+      "Geschenkideen"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "MCCAIN Chef Frites",
+    "description": "je 750-g-Beutel",
+    "price": "1.59",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlprodukte",
+      "Kartoffelprodukte",
+      "Beilagen"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "BRAUN Reinigungskartuschen »CCR«",
+    "description": "je 4-St.-Packg.",
+    "price": "19.99",
+    "store": "Kaufland",
+    "categories": [
+      "Rasur & Haarentfernung",
+      "Zubehör",
+      "Elektrische Zahnbürsten & Rasierer"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Storck Knoppers Nussriegel",
+    "description": "je 5 x 40-g-Pckg , (1 kg = 9,95)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Süßwaren",
+      "Snacks",
+      "Riegel"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Schweine-Schnitzel",
+    "description": "aus der Keule oder -Braten, 100 g",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Schweinefleisch",
+      "Frischwaren"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "SOFTLAN ULTRA Weichspüler",
+    "description": "je 0,65 - 1-l-Fl.",
+    "price": "1.29",
+    "store": "Kaufland",
+    "categories": [
+      "Haushalt",
+      "Waschmittel",
+      "Weichspüler"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "LINDT Mini-Pralinés",
+    "description": "je 90 - 100-g-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Pralinen",
+      "Schokolade",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Knoblauch",
+    "description": "Kl. I , je 200-g-Netz , (1 kg = 4,95)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Gewürze",
+      "Gemüse",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Wernet Blütenhonig cremig",
+    "description": "500 g, (1 kg = 9,98)",
+    "price": "4.99",
+    "store": "Edeka",
+    "categories": [
+      "Honig",
+      "Frühstück",
+      "Brotaufstriche"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "PERSIL Voll- oder Colorwaschmittel",
+    "description": "je",
+    "price": "15.99",
+    "store": "Kaufland",
+    "categories": [
+      "Waschmittel",
+      "Reinigung",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Coca-Cola",
+    "description": "versch. Sorten, teilw. koffeinhaltig , je 1,5-l-Fl , (1 l = 0,79) , zzgl. 0,25 Pfand",
+    "price": "1.19",
+    "store": "Rewe",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Softdrinks",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Italien: Tavernello Bianco d‘Italia",
+    "description": "3er, 0,75 L\n \n• frisch, fruchtig\n \n• 16 °C, (1 L = 2,96)",
+    "price": "2.22",
+    "store": "Edeka",
+    "categories": [
+      "Weißwein",
+      "Italienische Weine",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "TOFFIFEE Haselnuss in Caramel",
+    "description": "je 15 St. = 125-g-Packg.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Pralinen",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Purina Gourmet Katzennahrung Gold oder Perle",
+    "description": "versch. Sorten, 85 g, (1 kg = 5,76)",
+    "price": "0.49",
+    "store": "Edeka",
+    "categories": [
+      "Katzenfutter",
+      "Tiernahrung",
+      "Haustierbedarf"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Neuseeländ. Kiwi gold, lose",
+    "description": "je Stück",
+    "price": "0.79",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Exotische Früchte",
+      "Frische Produkte"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "FEBREZE Lufterfrischer",
+    "description": "je 185-ml-Dose",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltswaren",
+      "Reinigungsmittel",
+      "Raumduft"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "CHIEMSEE Herren-Sweatshorts",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Herrenmode",
+      "Freizeitbekleidung",
+      "Shorts"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "BOMBAY Gin & Tonic",
+    "description": "je 0,25-l-Dose",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fertigmixgetränke",
+      "Spirituosen",
+      "Dosengetränke"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "BRAUN Epilierer Silk-épil »3-277«",
+    "description": "je",
+    "price": "29.99",
+    "store": "Kaufland",
+    "categories": [
+      "Körperpflege",
+      "Haarentfernung",
+      "Elektrogeräte"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "BULLDOG London Dry Gin",
+    "description": "je 0,7-l-Fl.",
+    "price": "18.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spirituosen",
+      "Gin",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "BITBURGER Premium Pils",
+    "description": "je Ka. 24 x 0,33-l-Fl.",
+    "price": "10.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "WZG MÖGLINGEN Riesling",
+    "description": "je 1-l-Fl.",
+    "price": "2.89",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Donnerstag bis Samstag: Parmigiano Reggiano DOP",
+    "description": "ital. Hartkäse aus Kuh-Rohmilch, mild, nicht scharf, mind. 32% Fett i. Tr., 100 g",
+    "price": "2.79",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Italienische Spezialitäten",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Wagner Creazione Salame & Nduja Tipo",
+    "description": "tiefgefroren , je 430-g-Pckg , (1 kg = 10,44)",
+    "price": "4.49",
+    "store": "Rewe",
+    "categories": [
+      "Tiefkühlpizza",
+      "Italienische Spezialitäten",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "DR. OETKER Müsli",
+    "description": "je 330 - 600-g-Packg.",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Müsli & Cerealien",
+      "Frühstück",
+      "Trockenprodukte"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "LIV&BO® Multifunktionsbrause-Set eckig",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badezimmer",
+      "Sanitär",
+      "Duschzubehör"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Trapiche Oak Cask Malbec trocken",
+    "description": "13,5% Vol., 0,75 L, (1 L = 7,40)",
+    "price": "5.55",
+    "store": "Edeka",
+    "categories": [
+      "Wein",
+      "Rotwein",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "LIV&BO® Frottier-Gästetücher",
+    "description": "je 2-St.-Packg.",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Handtücher",
+      "Badezimmer",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "COUNTRYSIDE® Bierkasten-Kühltasche",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Getränkezubehör",
+      "Kühl- & Isoliertaschen",
+      "Picknick- & Outdoorbedarf"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Bioland frische grobe Bratwurst",
+    "description": "SB-verpackt, 4 Stück, 340 g, (1 kg = 17,62)",
+    "price": "5.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Bio-Produkte",
+      "Grillartikel"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Lenor Weichspüler",
+    "description": "versch. Sorten, 756 ml, 36 Waschladungen, (1 WL = 0,04)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Haushalt",
+      "Waschmittel",
+      "Reinigungsmittel"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Schöller Multipackung Pirulo Watermelon",
+    "description": "je 365-ml-Pckg , (1 l = 5,45)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Eiscreme",
+      "Tiefkühlprodukte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "NOTHWANG Delikatess-Schinkenspeck",
+    "description": "je 100 g",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Schweinefleisch"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "WC Frisch Duftspüler",
+    "description": "versch. Sorten, 200 g, (1 kg = 23,95)",
+    "price": "4.79",
+    "store": "Edeka",
+    "categories": [
+      "Haushaltsreiniger",
+      "Toilettenzubehör",
+      "Reinigungsartikel"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "GUHL Shampoo oder Spülung",
+    "description": "je 200 - 250-ml-Fl.",
+    "price": "3.29",
+    "store": "Kaufland",
+    "categories": [
+      "Haarpflege",
+      "Shampoo",
+      "Spülung"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Tortenbrie",
+    "description": "mind. 50% Fett i. Tr., französischer Weichkäse, mild im Geschmack, cremige Konsistenz, 100 g",
+    "price": "0.99",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Bioland-Hubertus Kräuter",
+    "description": "dt. halbfester Schnittk., mind. 50% Fett i. Tr., mit Rotschmiere und leichtem Weißschimmel, aromatisch würzig, cremig, 100 g",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Bioprodukte",
+      "Halbfester Schnittkäse"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Kreide Spaß Mandala Set",
+    "description": "Inhalt: 1 Schablone, 6 Kreidestifte, ab 3 Jahren\n \n• In den Scheck-In Centern Bühlertal, Heidelberg Kurfürstenanlage 21-23, Heidelberg-Bahnstadt, Frankfurt-Sachsenhausen Hainer Weg 56-80, Frankfurt-Niederrad Hahnstraße 37-41 und Offenbach nicht erhältlich",
+    "price": "7.99",
+    "store": "Edeka",
+    "categories": [
+      "Spielwaren",
+      "Outdoor-Spielzeug",
+      "Kreativsets"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "EDEKA Bio Frische Gnocchi",
+    "description": "400 g oder Frische Tortelloni mit Spinat und Pinienkernen, 250 g, (1 kg = 7,16 - 4,48)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Frische Pasta",
+      "Bio-Produkte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Wiltmann Bio Salami",
+    "description": "versch. Sorten, 80 g, (1 kg = 24,88)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Bio-Produkte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "K-PURLAND Fleischspieße vom Schwein, mariniert",
+    "description": "je 450-g-Packg.",
+    "price": "4.29",
+    "store": "Kaufland",
+    "categories": [
+      "Fleischprodukte",
+      "Grillartikel",
+      "Convenience Food"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "NEUBURGER Neuburger",
+    "description": "je 100 g",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Erdinger Weißbier Alkoholfrei oder Trüb",
+    "description": "20 x 0,5 L, zzgl. 3,10 Pfand",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Alkoholfreie Getränke",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Vitello Kalbsrückensteaks",
+    "description": "mager und vollfleischig, aus der Pianura Padana, 100 g",
+    "price": "3.49",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Kalb",
+      "Steak"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "GORBATSCHOW Wodka",
+    "description": "je 0,7-l-Fl.",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spirituosen",
+      "Alkoholische Getränke",
+      "Wodka"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Spaten Münchner Hell",
+    "description": "auch alkoholfrei, 20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,40)",
+    "price": "13.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkoholisches"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "CARRERA Haartrockner »02499«",
+    "description": "je",
+    "price": "19.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltsgeräte",
+      "Körperpflege",
+      "Elektronik"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "MAUI Kinder-Clogs",
+    "description": "je Paar",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Kinderkleidung",
+      "Schuhe",
+      "Sommeraccessoires"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Kloster Landbier oder Hell",
+    "description": "20 x 0,5 L, zzgl. 4,50 Pfand, (1 L = 1,20)",
+    "price": "11.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Original Wagner Steinofen Pizza",
+    "description": "oder Flammkuchen, tiefgefroren, versch. Sorten, 300 - 380 g, (1 kg = 5,97 - 4,71)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Tiefkühlkost",
+      "Pizza",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "PUREGREEN Dusch-Wassersparer",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Nachhaltigkeit",
+      "Badezimmer",
+      "Wassersparen"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Iglo Filegro Ofen-Backfisch",
+    "description": "tiefgefroren , je 240-g-Pckg , (1 kg = 11,21)",
+    "price": "2.69",
+    "store": "Rewe",
+    "categories": [
+      "Tiefkühlprodukte",
+      "Fisch & Meeresfrüchte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "LIV&BO® Duschvorhang",
+    "description": "je",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badzubehör",
+      "Wohnaccessoires",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Donut »Kids Crunch«",
+    "description": "je Stück",
+    "price": "0.55",
+    "store": "Kaufland",
+    "categories": [
+      "Backwaren",
+      "Süßgebäck",
+      "Kinderprodukte"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "GARDENA Hahnverbinder 3/4 Zoll",
+    "description": "je",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenbewässerung",
+      "Gartenzubehör",
+      "Wasseranschlüsse"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "GARDENA 1/2-Zoll-Schlauch »Classic« 30 Meter",
+    "description": "je",
+    "price": "24.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Schläuche"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Weideglück Butter",
+    "description": "Süßrahm oder mild gesäuert, 250 g, (1 kg = 7,96)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Milchprodukte",
+      "Aufstriche",
+      "Backzutaten"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Rumo Pesto alla Genovese",
+    "description": "versch. Sorten, 190 g\n \n• Einmaliger Probierpreis, (1 kg = 10,47)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Pasta & Saucen",
+      "Italienische Spezialitäten",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "NEUHÖFER Saft oder Nektar",
+    "description": "je 1-l-Fl.",
+    "price": "1.19",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Fruchtsäfte",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Dtsch. Miniromarispentomaten",
+    "description": "je 200-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Tomaten",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Oatly Hafer No Sugar",
+    "description": "oder Hafer Barista Edition, versch. Sorten, 1 L",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Pflanzliche Milchalternativen",
+      "Getränke",
+      "Vegan"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Conditorei C&W Meister-Torte",
+    "description": "versch. Sorten, tiefgefroren, 500 - 1100 g, (1 kg = 10,98 - 4,99)",
+    "price": "5.49",
+    "store": "Edeka",
+    "categories": [
+      "Tiefkühlprodukte",
+      "Kuchen & Torten",
+      "Desserts"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "HENGSTENBERG Mildessa",
+    "description": "je 810-g-Dose",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Sauerkraut",
+      "Konserven",
+      "Gemüse"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "CHIEMSEE Herren-Badeshorts",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badebekleidung",
+      "Herrenmode",
+      "Sommerartikel"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Weideglück Milchreis oder Fruchtjoghurt",
+    "description": "versch. Sorten, 800 g - 1 kg,, (1 kg = 2,78 - 2,22)",
+    "price": "2.22",
+    "store": "Edeka",
+    "categories": [
+      "Milchprodukte",
+      "Desserts",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "¹Zart gereiftes Bioland-Rindfleisch: Rumpsteaks",
+    "description": "mager und vollfleischig, 100 g\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich.",
+    "price": "4.29",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Bio-Produkte",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Stuttgarter Hofbräu Bügel Premium",
+    "description": "oder Kellerbier, 20 x 0,5 L, zzgl. 4,50 Pfand, (1 L = 1,40)",
+    "price": "13.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Schwarzwaldhof Landjäger",
+    "description": "1 Paar, 80 g, (1 kg = 16,13)",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Snacks",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Vita Coconut Water",
+    "description": "0,33 L, (1 L = 4,52)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Kokoswasser",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Patros Natur",
+    "description": "Weichkäse , je 180-g-Pckg , (1 kg = 9,94)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "vegetarische Lebensmittel"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "PICK Echt ungar. Salami",
+    "description": "je 100 g",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Ungarische Spezialitäten"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "HEIDEMARK Turkey-BBQ-Wings XXL",
+    "description": "je 1,1-kg-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Geflügel",
+      "Grillen",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Maggi Herzensküche Würzpaste Spaghetti Bolognese",
+    "description": "je 85-g-Btl , (1 kg = 5,76)",
+    "price": "0.49",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Gewürze & Würzmittel",
+      "Pasta-Saucen"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "ADIDAS Fußball »Tiro Club«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Sport",
+      "Fußball",
+      "Bälle"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Teekanne Früchtetee Waldbeere",
+    "description": "je 50-g-Pckg , (1 kg = 29,80)",
+    "price": "1.49",
+    "store": "Rewe",
+    "categories": [
+      "Tee",
+      "Getränke",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Seifenblasen-Pistole",
+    "description": "je",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Outdoor",
+      "Kinder"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "LIV&BO® Teleskop-Badregal",
+    "description": "je",
+    "price": "19.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badzubehör",
+      "Aufbewahrung",
+      "Badezimmermöbel"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Iglo Fischstäbchen",
+    "description": "tiefgefroren, versch. Sorten, 224 - 450 g, (1 kg = 11,12 - 5,53)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Tiefkühlprodukte",
+      "Fisch & Meeresfrüchte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Krombacher Spezi Cola-Orange-Mix",
+    "description": "koffeinhaltig, 20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,00)",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Mischgetränke",
+      "Koffeinhaltige Getränke"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Nivea Duschgel",
+    "description": "Sport , je 250-ml-Fl , (1 l = 7,96)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Körperpflege",
+      "Duschgel",
+      "Herrenpflege"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Pizza Margherita",
+    "description": "je Stück",
+    "price": "0.79",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlkost",
+      "Fertiggerichte",
+      "Pizza"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "3 Glocken Genuss Pur Pasta",
+    "description": "versch. Ausformungen , je 500-g-Btl , (1 kg = 1,98)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Teigwaren",
+      "Lebensmittel",
+      "Nudeln"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "K-CLASSIC Baguette mit Kräuterbutter",
+    "description": "je 175-g-Packg.",
+    "price": "0.79",
+    "store": "Kaufland",
+    "categories": [
+      "Brot & Backwaren",
+      "Tiefkühlprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "TEEKANNE Kräuter- oder Früchtetee- Klassiker",
+    "description": "je 18 - 20-Btl.-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Tee",
+      "Getränke",
+      "Heißgetränke"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "BONBEL Franz. Butterkäse",
+    "description": "je 100-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "VALENSINA Vaboo Energy-Drink",
+    "description": "je 0,25-l-Dose",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Energy-Drinks",
+      "Getränke",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Unsere Heimat – echt & gut Kopfsalat",
+    "description": "aus Süddeutschland, Klasse I, Stück",
+    "price": "1.00",
+    "store": "Edeka",
+    "categories": [
+      "Salate",
+      "Frischeprodukte",
+      "Regional"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "MATTEL Fashion-Puppe »Monster High«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Puppen",
+      "Kinderprodukte"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "CHIEMSEE Herren-Poloshirt",
+    "description": "je",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Herrenmode",
+      "Poloshirts",
+      "Oberbekleidung"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Veet Kaltwachsstreifen",
+    "description": "20 Stück",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Haarentfernung",
+      "Körperpflege",
+      "Damenhygiene"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Freixenet Cabernet Sauvignon oder Blanc",
+    "description": "trocken , je 0,75-l-Fl , (1 l = 5,32)",
+    "price": "3.99",
+    "store": "Rewe",
+    "categories": [
+      "Wein",
+      "Alkoholische Getränke",
+      "Rotwein/Weißwein"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Zott Sahne Joghurt",
+    "description": "versch. Sorten , je 150-g-Becher , (1 kg = 2,60)",
+    "price": "0.39",
+    "store": "Rewe",
+    "categories": [
+      "Molkereiprodukte",
+      "Joghurt",
+      "Dessert"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "SENSEO Kaffeepads",
+    "description": "je 8 - 16 St. = 92 - 125-g-Packg.",
+    "price": "1.88",
+    "store": "Kaufland",
+    "categories": [
+      "Kaffee",
+      "Heißgetränke",
+      "Kaffeepads"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "K-CLASSIC Bacon-Scheiben",
+    "description": "je 100-g-Packg.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleischwaren",
+      "Frühstück",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "RITTER SPORT Schokolade Bunte Vielfalt",
+    "description": "je 100-g-Tafel",
+    "price": "1.11",
+    "store": "Kaufland",
+    "categories": [
+      "Schokolade",
+      "Süßwaren",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Württemberg WZG Rotwein",
+    "description": "Q.b.A., 1 L, zzgl. 0,02 Pfand\n \n• kräftige Beerenaromen\n \n• 16–18 °C",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Rotwein"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Peruan./brasil. Mango, lose",
+    "description": "je Stück",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Exotische Früchte",
+      "Frischware"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Dallmayr Home Barista Caffè Crema Dolce, Caffè Crema Forte",
+    "description": "oder Espresso Intenso, ganze Bohnen, 1 kg",
+    "price": "12.99",
+    "store": "Edeka",
+    "categories": [
+      "Kaffee",
+      "Ganze Bohnen",
+      "Espresso"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Crodo Soda",
+    "description": "versch. Sorten, 0,33 L, zzgl. 0,25 Pfand, (1 L = 2,39)",
+    "price": "0.79",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Softdrinks",
+      "Einzelgetränke"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "CITY Secco oder Hugo",
+    "description": "je 0,2-l-Dose",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Fertigcocktails"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Innocent Smoothie Mango Maracuja",
+    "description": "je 250-ml-Fl , (1 l = 5,96) , zzgl. 0,25 Pfand",
+    "price": "1.49",
+    "store": "Rewe",
+    "categories": [
+      "Getränke",
+      "Fruchtsmoothies",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "KILBEGGAN Traditional Irish Whiskey",
+    "description": "je 0,7-l-Fl.",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Whiskey",
+      "Spirituosen",
+      "Irische Getränke"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "RITTER SPORT Rum",
+    "description": "je 200-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Schokolade",
+      "Alkoholische Süßwaren",
+      "Tafelschokolade"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Ariel Vollwaschmittel Pulver",
+    "description": "je 18-WL-Pckg , (1 WL = 0,28)",
+    "price": "4.99",
+    "store": "Rewe",
+    "categories": [
+      "Waschmittel",
+      "Haushalt",
+      "Reinigung"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Ritter Sport Schokolade Bunte Vielfalt",
+    "description": "versch. Sorten, 100 g, (1 kg = 12,90)",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Schokolade",
+      "Süßwaren",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Span./ital. Spargel",
+    "description": "je 500-g-Bund",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Saisonale Artikel"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Nestlé Cereals",
+    "description": "versch. Sorten, 550 - 675 g, (1 kg = 7,25 - 5,91)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Frühstück",
+      "Cerealien",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "GARDENA Wand-Schlauchbox »RollUp XL«",
+    "description": "je",
+    "price": "159.00",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenbewässerung",
+      "Gartenzubehör",
+      "Schlauchaufbewahrung"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Kinder Schoko-Bons",
+    "description": "je 200-g-Btl , (1 kg = 13,95)",
+    "price": "2.79",
+    "store": "Rewe",
+    "categories": [
+      "Süßwaren",
+      "Schokolade",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Heineken Premium Beer",
+    "description": "versch. Sorten , je 6 x 0,33-l-Fl.-Sixpack , (1 l = 2,52) , zzgl. 0,48 Pfand",
+    "price": "4.99",
+    "store": "Rewe",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "LEGO NINJAGO »Jays Battle Mech« Spielset 71805",
+    "description": "je 78-teilig",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bausätze",
+      "Kinderspielzeug",
+      "Actionfiguren"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "GARDENA 2-Wege-Verteiler",
+    "description": "je",
+    "price": "17.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Gartenwerkzeuge"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Donnerstag bis Samstag: Salakis",
+    "description": "versch. Sorten, 150 - 180 g, (1 kg = 13,27 - 11,06)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Griechische Spezialitäten"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "PARKSIDE® Elektro-Rasenmäher »PERM 1500 A1«",
+    "description": "je",
+    "price": "79.99",
+    "store": "Kaufland",
+    "categories": [
+      "Garten",
+      "Elektrowerkzeuge",
+      "Rasenpflege"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "ORIGINAL WAGNER Piccolinis oder Pizzies",
+    "description": "je 2 - 9 St. = 252 - 300-g-Packg.",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlpizza",
+      "Snacks",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "EDEKA Bio Agavendicksaft",
+    "description": "500 g, (1 kg = 3,98)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Süßungsmittel",
+      "Bio-Produkte",
+      "vegane Lebensmittel"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "4.44",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Deko",
+      "Garten"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "HASBRO Furby Furblets",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Elektronik",
+      "Kinder"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Bürger Maultaschen Unsere Besten",
+    "description": "400 g, (1 kg = 7,48)",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Fertiggerichte",
+      "Teigwaren",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Wochenstrauß",
+    "description": "je",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Geschenke",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Holzfällersteaks",
+    "description": "aus der Schweineschulter mit Schwarte, Speck und Knochen, 100 g",
+    "price": "1.19",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Grillprodukte",
+      "Schweinefleisch"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Ramazzotti Amaro",
+    "description": "30% Vol. und weitere Sorten, 0,7 L, (1 L = 15,70)",
+    "price": "10.99",
+    "store": "Edeka",
+    "categories": [
+      "Spirituosen",
+      "Liköre",
+      "Italienische Spezialitäten"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Greenforce Vegane Cevapcici oder Bifteki",
+    "description": "100% pflanzlich, proteinreich, aus Erbsen, 180 g\n \n• vegan, (1 kg = 13,83)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Fleischalternativen",
+      "Vegane Produkte",
+      "Proteinreiche Lebensmittel"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Powerade",
+    "description": "versch. Sorten , je 0,5-l-Fl , (1 l = 1,98) , zzgl. 0,25 Pfand",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Sportgetränke",
+      "Erfrischungsgetränke",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Mönchshof Kellerbier",
+    "description": "20 x 0,5 L, zzgl. 4,50 Pfand, (1 L = 1,30)",
+    "price": "12.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Pahmeyer Gemüsetaler",
+    "description": "3 x 80 g\n \n• vegan",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Vegane Lebensmittel",
+      "Tiefkühlprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Storck Knoppers",
+    "description": "je 8 x 25-g-Pckg , (1 kg = 9,95)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Snacks",
+      "Süßwaren",
+      "Waffeln"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Fol Epi Scheiben",
+    "description": "versch. Sorten und Fettstufen, Le Rustique Brie in Scheiben, mind. 60% Fett i. Tr. oder British Heritage Cheddar, mind. 54% Fett i. Tr., 120 - 150 g, (1 kg = 12,42 - 9,93)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Aufschnitt",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Mumm Sekt",
+    "description": "versch. Sorten, 0,75 L, (1 L = 5,32)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Sekt",
+      "Alkoholische Getränke",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Bio Tressbrüder Typ Butter Chicken Curry",
+    "description": "auf Basis von Soja, 375 g, (1 kg = 6,64)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Fertiggerichte",
+      "Fleischersatzprodukte",
+      "Bioprodukte"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Strandtasche",
+    "description": "Maße: 50 x 15 x 38 cm, versch. Dessins\n je",
+    "price": "8.99",
+    "store": "Edeka",
+    "categories": [
+      "Freizeit & Outdoor",
+      "Taschen & Koffer",
+      "Sommer & Urlaub"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Rügenwalder Mühle vegane Fleischalternative",
+    "description": "versch. Sorten, 180 - 200 g\n \n• vegan",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Vegane Produkte",
+      "Fleischalternativen",
+      "Kühlwaren"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Dallmayr Capsa",
+    "description": "versch. Sorten, 10er, 56 g, (1 kg = 46,25)",
+    "price": "2.59",
+    "store": "Edeka",
+    "categories": [
+      "Kaffee",
+      "Kaffeekapseln",
+      "Heißgetränke"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "König Ludwig Weissbier Hell",
+    "description": "20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,50)",
+    "price": "14.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "SPICE&SOUL® Tee-Box",
+    "description": "je",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Tee",
+      "Geschenkideen"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "GARDENA Wasserstop 1/2 bis 5/8 Zoll",
+    "description": "je",
+    "price": "5.49",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Schlauchzubehör"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Ergüllü Scharfer oder Weißer Grieche",
+    "description": "125 g",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Feinkost",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Frische grobe Bratwurst",
+    "description": "ideal zum Grillen oder Braten, laktose-/glutenfrei, 1 kg",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Grillprodukte",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Gut & Günstig Orangensaft",
+    "description": "auch ohne Fruchtfleisch,  1 L, zzgl. 0,25 Pfand\n \n• In der Kühlung",
+    "price": "2.39",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Säfte",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "ZONIN Montepulciano d'Abruzzo oder Pinot Grigio DOC",
+    "description": "je 0,75-l-Fl.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Italienische Spezialitäten"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "K-CLASSIC High Protein Drink",
+    "description": "je 350-g-PET-Fl.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Proteinprodukte",
+      "Getränke",
+      "Fitness & Sport"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "ODOL-MED 3 Zahncreme",
+    "description": "je 2 x 75-ml-Packg.",
+    "price": "3.49",
+    "store": "Kaufland",
+    "categories": [
+      "Zahnpflege",
+      "Mundhygiene",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Donnerstag bis Samstag: Galbani Mozzarella",
+    "description": "mind. 45% Fett i. Tr., 225 g, Abtropfgewicht 125 g, (1 kg = 9,52)",
+    "price": "1.19",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "italienische Spezialitäten"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Grillfino",
+    "description": "eine Hähnchenspezialität aus der Keule, zum Kurzbraten oder Grillen, 100 g",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch & Geflügel",
+      "Grillprodukte",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "MÜLLER'S MÜHLE Express-Reis",
+    "description": "je 250-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Reis",
+      "Fertiggerichte",
+      "Beilagen"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Norweg. Lachsfilet mit Haut",
+    "description": "je kg",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fisch",
+      "Frischware",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Langnese Flotte Biene Honig",
+    "description": "versch. Sorten, 250 g, (1 kg = 9,96)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Honig",
+      "Brotaufstriche",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Antipasti-Creme Doppelrahmstufe",
+    "description": "je 100 g",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Brotaufstrich",
+      "Frischkäse",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "COUNTRYSIDE® Grillholzkohle",
+    "description": "je 5-kg-Packg.",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Grillzubehör",
+      "Kohle & Brennstoffe",
+      "Garten & Outdoor"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "COUNTRYSIDE® Buchen-Holzkohlebriketts",
+    "description": "je 5-kg-Packg.",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Grillen",
+      "Kohle & Brennstoffe",
+      "Sommerbedarf"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "EDEKA Herzstücke Salat der Saison Sommermix",
+    "description": "200 g, (1 kg = 5,00)",
+    "price": "1.00",
+    "store": "Edeka",
+    "categories": [
+      "Salat",
+      "Frischeprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Span. Aprikosen",
+    "description": "je 1-kg-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Trockenfrüchte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "SPICE&SOUL® Isolierflasche mit Becher",
+    "description": "je",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchenzubehör",
+      "Outdoor & Camping",
+      "Trinkflaschen"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Nuss-Nougat-Croissant",
+    "description": "je Stück",
+    "price": "0.49",
+    "store": "Kaufland",
+    "categories": [
+      "Backwaren",
+      "Süßgebäck",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Blumen-Beiwerk",
+    "description": "je Bund",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Dekoration",
+      "Haushalt"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Hacker-Pschorr Münchner Hell",
+    "description": "20 x 0,33 L, zzgl. 4,50 Pfand, (1 L = 1,97)",
+    "price": "12.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Coral Waschmittel Magic Wash Universal Clean",
+    "description": "oder Color Protection, 21 Waschladungen, (1 WL = 0,29)",
+    "price": "5.99",
+    "store": "Edeka",
+    "categories": [
+      "Waschmittel",
+      "Haushaltswaren",
+      "Reinigungsmittel"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "MATTEL Spielset »Barbie Chelsea«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Puppen",
+      "Kinder"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Grillfackeln",
+    "description": "100 g",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Grillfleisch",
+      "Fertigprodukte",
+      "Schweinefleisch"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "SCHWARZWALDMILCH Fr. Weidemilch, 3,8 % Fett",
+    "description": "je 1-l-Packg.",
+    "price": "1.29",
+    "store": "Kaufland",
+    "categories": [
+      "Milch",
+      "Frischeprodukte",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "BLOCK HOUSE Block Burger oder Cheese Burger",
+    "description": "je 2 St. = 320 - 400-g-Packg.",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Burger",
+      "Tiefkühlkost",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Aus eigener Herstellung Schinkenbeißer",
+    "description": "je 100 g",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Fleischprodukte",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Paulaner Spezi",
+    "description": "auch Zero, koffeinhaltig oder Limo  Orange auch Zitrone, 0,33 L, zzgl. 0,25 Pfand, (1 L = 2,09)",
+    "price": "0.69",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Softdrinks",
+      "alkoholfrei"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "MATTEL HOW WHEELS Monster Trucks Big Ricks",
+    "description": "je",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Fahrzeuge",
+      "Kinder"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "¹,²MSC Heringssalat rot",
+    "description": "Heringsfilethappen mit Rote Bete und Zwiebeln, in pikant gewürzter Salatmayonnaise, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.\n \n• ²Aus einer MSC-zertifizierten nachhaltigen Fischerei. www.msc.org/de (MSC-C-52465). Nur in zertifizierten Märkten der EDEKA Südwest.",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Fisch & Meeresfrüchte",
+      "Feinkostsalate",
+      "Kühltheke"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Thomy Delikatess Senf",
+    "description": "mittelscharf , je 200-ml-Tube , (1 l = 4,95)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Senf",
+      "Würzmittel",
+      "Aufstriche"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Fever-Tree Indian Tonic Water",
+    "description": "und weitere Sorten, 8 x 0,15 L, zzgl. 2,00 Pfand, (1 L = 3,33)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Mixgetränke",
+      "Tonic Water"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "ERGÜLLÜ Tzatziki oder Aioli",
+    "description": "je 200-g-Schale",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Aufstriche & Dips",
+      "Feinkost",
+      "Internationale Spezialitäten"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Carefree Slipeinlagen",
+    "description": "Cotton Feel Normal , je 56-St.-Pckg",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Hygieneprodukte",
+      "Damenhygiene",
+      "Einlagen"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "K-PURLAND Hähnchen-Geschnetzeltes",
+    "description": "je 400-g-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Geflügel",
+      "Fertigprodukte"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Nordbrand Nordhausen Pfefferminzlikör",
+    "description": "18% Vol. , je 0,7-l-Fl , (1 l = 5,70)",
+    "price": "3.99",
+    "store": "Rewe",
+    "categories": [
+      "Liköre",
+      "Spirituosen",
+      "Minzgetränke"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Carefree Slipeinlagen",
+    "description": "Plus Long , je 40-St.-Pckg",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Hygieneartikel",
+      "Damenhygiene",
+      "Einlagen"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "K-BLUE BAY Schwarzer Heilbutt",
+    "description": "je kg",
+    "price": "18.64",
+    "store": "Kaufland",
+    "categories": [
+      "Fisch",
+      "Räucherwaren",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Speisemöhren",
+    "description": "Kl. I , je 1,5-kg-Btl , (1 kg = 0,74)",
+    "price": "1.11",
+    "store": "Rewe",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Garten",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "K-CLASSIC Leberwurst",
+    "description": "je 125-g-Packg.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Brotaufstrich"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "PARKSIDE® Mähroboter 20 V City Smart »PAMRC 250 A1« mit Akku",
+    "description": "je",
+    "price": "199.00",
+    "store": "Kaufland",
+    "categories": [
+      "Garten & Balkon",
+      "Elektrogeräte",
+      "Rasenpflege"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Maggi Guten Appetit Suppe mit Rind",
+    "description": "ausreichend für 1 Liter , je Btl",
+    "price": "0.69",
+    "store": "Rewe",
+    "categories": [
+      "Trockensuppen",
+      "Fertiggerichte",
+      "Suppen & Eintöpfe"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Demeter dtsch. Zucchini",
+    "description": "je 500-g-Packg.",
+    "price": "1.29",
+    "store": "Kaufland",
+    "categories": [
+      "Bio-Gemüse",
+      "Frisches Gemüse",
+      "Zucchini"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "EASYMAXX Strahlregler für Armaturen",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltswaren",
+      "Sanitärzubehör",
+      "Küchenzubehör"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "ja! Mozzarella",
+    "description": "45% Fett i.Tr. , je 200-g-Btl , (1 kg = 6,80) , 125-g-Abtropfgew.",
+    "price": "0.85",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Frischkäse & Mozzarella",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Iglo Rahm Spinat",
+    "description": "tiefgefroren, 500 g, (1 kg = 3,18)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Tiefkühlkost",
+      "Gemüse",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "GARDENA Bewässerungsbrause »Classic«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenbewässerung",
+      "Gartenzubehör",
+      "Gartengeräte"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "ESCAL King Prawns Provençal oder Natur",
+    "description": "je 225 - 250-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlprodukte",
+      "Meeresfrüchte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Original Budweiser",
+    "description": "6 x 0,33 L, zzgl. 0,48 Pfand, (1 L = 2,27)",
+    "price": "4.49",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Hochland Almette",
+    "description": "Frischkäse, versch. Sorten , je 150-g-Pckg , (1 kg = 6,60)",
+    "price": "0.99",
+    "store": "Rewe",
+    "categories": [
+      "Milchprodukte",
+      "Brotaufstriche",
+      "Käse"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "K-BIO Bio-Hähnchenschenkel",
+    "description": "je kg",
+    "price": "8.99",
+    "store": "Kaufland",
+    "categories": [
+      "Geflügel",
+      "Bio-Produkte",
+      "Fleisch"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Sunrise Mix",
+    "description": "je 175-g-Becher , (1 kg = 9,09)",
+    "price": "1.59",
+    "store": "Rewe",
+    "categories": [
+      "Snacks",
+      "Obstsalate",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "EDEKA Bio Knusper Müsli",
+    "description": "versch. Sorten, 500 g, (1 kg = 4,98)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Frühstück",
+      "Müsli & Cerealien",
+      "Bio-Produkte"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "GRANINI Trinkgenuss",
+    "description": "je 1-l-PET-Fl.",
+    "price": "1.69",
+    "store": "Kaufland",
+    "categories": [
+      "Getränke",
+      "Fruchtsäfte",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Marokk./span. Kulturheidelbeeren",
+    "description": "je 400-g-Schale",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "²Lachsforellensteaks",
+    "description": "aus Aquakultur Schottland, besonders geeignet für Grill und Pfanne, 100 g\n \n• ²Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Fisch & Meeresfrüchte",
+      "Frischware",
+      "Grillprodukte"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "SCHWABEN BRÄU Das Echte",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "price": "13.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "CASA MODENA Parmigiano Reggiano DOP",
+    "description": "je 150-g-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Italienische Spezialitäten",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Unsere Heimat – echt & gut Mini Pflaumentomaten",
+    "description": "aus Süddeutschland, Klasse I, 200 g, (1 kg = 9,95)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Obst & Gemüse",
+      "Tomaten",
+      "Regional"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Lorenz Erdnusslocken",
+    "description": "oder Saltletts Sticks, versch. Sorten, 150 - 250 g, (1 kg = 7,40 - 4,44)",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Snacks",
+      "Knabbergebäck",
+      "Erdnussprodukte"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "HOUDEK Kabanos Klassik",
+    "description": "je 100 g",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Snacks",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 519,
+    "name": "PIVAC Kulen",
+    "description": "je 100-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Lorenz Crunchips",
+    "description": "Paprika , je 150-g-Btl , (1 kg = 7,40)",
+    "price": "1.11",
+    "store": "Rewe",
+    "categories": [
+      "Chips",
+      "Snacks",
+      "Knabberartikel"
+    ]
+  },
+  {
+    "id": 521,
+    "name": "L'ORÉAL PARIS Men Expert Duschgel",
+    "description": "je 250-ml-Fl.",
+    "price": "1.59",
+    "store": "Kaufland",
+    "categories": [
+      "Duschgel",
+      "Männerpflege",
+      "Körperpflege"
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Zott Monte Maxi Schoko",
+    "description": "je 4 x 100-g-Becher , (1 kg = 3,73)",
+    "price": "1.49",
+    "store": "Rewe",
+    "categories": [
+      "Pudding",
+      "Dessert",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "CROSSTRAVEL Trolley-Set",
+    "description": "aus Polyester, Farbe: schwarz oder aubergine\n ab",
+    "price": "14.99",
+    "store": "Edeka",
+    "categories": [
+      "Reisegepäck",
+      "Koffer & Trolleys",
+      "Taschen & Rucksäcke"
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Novantaceppi Montepulciano D‘Abruzzo trocken",
+    "description": "13% Vol., 0,75 L\n \n• rubinrote Farbe, komplexes Bouquet mit Aromen roter Waldfrüchte, leichte Noten von schwarzem Pfeffer\n \n• kräftige Pastagerichte, Rinderbraten, Ossobuco, geschmorte Hochrippe, (1 L = 5,59)",
+    "price": "4.19",
+    "store": "Edeka",
+    "categories": [
+      "Rotwein",
+      "Italienische Weine",
+      "Trocken"
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Baguette Parisienne",
+    "description": "je 420-g-Stück",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Backwaren",
+      "Brot",
+      "Französische Spezialitäten"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "ja! Gelierzucker",
+    "description": "2:1 , je 500-g-Pckg , (1 kg = 1,58)",
+    "price": "0.79",
+    "store": "Rewe",
+    "categories": [
+      "Zucker & Süßungsmittel",
+      "Backzutaten",
+      "Einkochen & Konservieren"
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Donnerstag bis Samstag: Unsere Heimat – echt & gut Spargel grün",
+    "description": "aus Süddeutschland, Klasse I, 500 g, (1 kg = 9,98)",
+    "price": "4.99",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Regional",
+      "Saisonal"
+    ]
+  },
+  {
+    "id": 528,
+    "name": "WEIN Bauernschinken",
+    "description": "je 375-g-Stück",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Coca-Cola¹ oder Fanta Orange",
+    "description": "(¹koffeinhaltig), 2 L, zzgl. 0,25 Pfand, (1 L = 0,70)",
+    "price": "1.39",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Limonaden",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 530,
+    "name": "LAUFFENER WEINGÄRTNER Katzenbeißer Samtrot",
+    "description": "je 0,75-l-Fl.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Rotwein",
+      "Alkoholische Getränke",
+      "Deutsche Weine"
+    ]
+  },
+  {
+    "id": 531,
+    "name": "LIV&BO® Multifunktionsbrause-Set",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badzubehör",
+      "Duschzubehör",
+      "Sanitärbedarf"
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Hohes C",
+    "description": "versch. Sorten, 1 L, zzgl. 0,25 Pfand",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Fruchtsaft",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Käserei Champignon Cambozola oder Rougette",
+    "description": "Weichkäse, versch. Sorten , je 100 g",
+    "price": "1.69",
+    "store": "Rewe",
+    "categories": [
+      "Käse",
+      "Feinkost",
+      "Milchprodukte"
+    ]
+  },
+  {
+    "id": 534,
+    "name": "REMINGTON Haarschneider »HC5020«",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Elektronik",
+      "Körperpflege",
+      "Haarschneider"
+    ]
+  },
+  {
+    "id": 535,
+    "name": "GARDEN GOURMET Vegane Filet-Streifen oder Sensational Burger",
+    "description": "je 175 - 226-g-Packg.",
+    "price": "2.29",
+    "store": "Kaufland",
+    "categories": [
+      "Fleischersatz",
+      "Vegan",
+      "Tiefkühlprodukte"
+    ]
+  },
+  {
+    "id": 536,
+    "name": "MILKA Küchlein",
+    "description": "je 5 - 9 St. = 140 - 175-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Süßgebäck",
+      "Snacks",
+      "Schokolade"
+    ]
+  },
+  {
+    "id": 537,
+    "name": "EDEKA Bio Bioland-Apfelmark",
+    "description": "700 g, (1 kg = 1,90)",
+    "price": "1.33",
+    "store": "Edeka",
+    "categories": [
+      "Bio-Produkte",
+      "Obst & Fruchtzubereitungen",
+      "Brotaufstriche"
+    ]
+  },
+  {
+    "id": 538,
+    "name": "COMTÉ AOP Franz. Hartkäse",
+    "description": "je 100 g",
+    "price": "1.69",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Französische Spezialitäten",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 539,
+    "name": "Span./marokk. Bio-Kulturheidelbeeren",
+    "description": "je 125-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Bio-Lebensmittel"
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Deko",
+      "Garten"
+    ]
+  },
+  {
+    "id": 541,
+    "name": "Magnum Utopia",
+    "description": "Double Hazelnut , je 255-ml-Pckg",
+    "price": "0.00",
+    "store": "Rewe",
+    "categories": [
+      "Eiscreme",
+      "Tiefkühlprodukte",
+      "Desserts"
+    ]
+  },
+  {
+    "id": 542,
+    "name": "LENOR Wäscheparfüm",
+    "description": "je 275-g-Fl.",
+    "price": "4.44",
+    "store": "Kaufland",
+    "categories": [
+      "Waschmittel",
+      "Haushaltswaren",
+      "Duftprodukte"
+    ]
+  },
+  {
+    "id": 543,
+    "name": "MAKER'S MARK Kentucky Straight Bourbon Whisky",
+    "description": "je 0,7-l-Fl.",
+    "price": "19.99",
+    "store": "Kaufland",
+    "categories": [
+      "Whisky",
+      "Spirituosen",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Gut & Günstig Champignons weiß",
+    "description": "aus den Niederlanden oder Polen, Klasse I, 400 g, (1 kg = 3,73)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Pilze"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Feinkost Dittmann Pfefferonen mild",
+    "description": "500 g, Abtropfgewicht 200 g, (1 kg = 8,95)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Eingelegtes Gemüse",
+      "Antipasti",
+      "Grillbeilagen"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "Unsere Heimat – echt & gut Cocktail Rispentomaten",
+    "description": "aus Süddeutschland, Klasse I, 300 g, (1 kg = 6,63)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Gemüse",
+      "Tomaten",
+      "Regional"
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Simmler Konfitüre",
+    "description": "versch. Sorten, 450 g auch Geniesserle, 8 x 25 g, (1 kg = 16,45 - 7,31)",
+    "price": "3.29",
+    "store": "Edeka",
+    "categories": [
+      "Brotaufstriche",
+      "Frühstück",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 548,
+    "name": "Rama",
+    "description": "60% Fett, 400 g, (1 kg = 2,50)",
+    "price": "1.00",
+    "store": "Edeka",
+    "categories": [
+      "Margarine",
+      "Aufstriche",
+      "Backzutaten"
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Ital. Babyspinat",
+    "description": "je 150-g-Packg.",
+    "price": "0.89",
+    "store": "Kaufland",
+    "categories": [
+      "Salat",
+      "Blattgemüse",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Müller Milchreis",
+    "description": "versch. Sorten, 200 g, (1 kg = 2,20)",
+    "price": "0.44",
+    "store": "Edeka",
+    "categories": [
+      "Milchprodukte",
+      "Desserts",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 551,
+    "name": "FA Deo-Spray oder -Roll-on",
+    "description": "je 50-ml-Roller oder 150-ml-Fl.",
+    "price": "1.29",
+    "store": "Kaufland",
+    "categories": [
+      "Körperpflege",
+      "Deodorants",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 552,
+    "name": "K-FAVOURITES Tomahawk Rib-Eye-Steak vom irischen Weiderind",
+    "description": "je kg",
+    "price": "24.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Grillen",
+      "Rind"
+    ]
+  },
+  {
+    "id": 553,
+    "name": "ECOIFFIER Garten-Trolley",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Garten",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": 554,
+    "name": "GARDENA Reparator 1/2 bis 5/8 Zoll",
+    "description": "je",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Schlauchverbinder"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Allgäuer Emmentaler",
+    "description": "deutscher Hartkäse aus Rohmilch, mind. 45% Fett i. Tr., mind. 3 Monate gereift, vollmundig, nussig, 100 g",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Maggi fix oder Würzpaste",
+    "description": "versch. Sorten, 26 - 70 g, (1 kg = 18,85 - 7,00)",
+    "price": "0.49",
+    "store": "Edeka",
+    "categories": [
+      "Gewürze",
+      "Fertiggerichte",
+      "Kochzutaten"
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Unsere Heimat – echt &  gut Erdbeeren",
+    "description": "aus Süddeutschland, Klasse I, 500 g\n \n• Erntefrisch aus der Region",
+    "price": "0.00",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Regional",
+      "Frischware"
+    ]
+  },
+  {
+    "id": 558,
+    "name": "LEIFHEIT Handkehrset Classic",
+    "description": "mit gesplissenen Borsten für beste Kehrergebnisse",
+    "price": "4.49",
+    "store": "Edeka",
+    "categories": [
+      "Haushalt",
+      "Reinigungszubehör",
+      "Putzutensilien"
+    ]
+  },
+  {
+    "id": 559,
+    "name": "MATTEL Zaubertränke »Monster High«",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Kinder",
+      "Sammelfiguren"
+    ]
+  },
+  {
+    "id": 560,
+    "name": "CHIEMSEE Herren-Zehengreifer",
+    "description": "je Paar",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Schuhe",
+      "Herrenmode",
+      "Sommeraccessoires"
+    ]
+  },
+  {
+    "id": 561,
+    "name": "Chrysanthemen Santini Mix",
+    "description": "je Bund",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Schnittblumen",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 562,
+    "name": "ja! Butter-Toastbrot",
+    "description": "je 500-g-Pckg , (1 kg = 1,58)",
+    "price": "0.79",
+    "store": "Rewe",
+    "categories": [
+      "Brot",
+      "Frühstück",
+      "Backwaren"
+    ]
+  },
+  {
+    "id": 563,
+    "name": "Dtsch. Spargel",
+    "description": "je 500-g-Bund",
+    "price": "3.49",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Saisonal"
+    ]
+  },
+  {
+    "id": 564,
+    "name": "Ritter Sport Schokolade Nussklasse",
+    "description": "Voll-Nuss , je 100-g-Tafel , (1 kg = 16,90)",
+    "price": "1.69",
+    "store": "Rewe",
+    "categories": [
+      "Schokolade",
+      "Süßwaren",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Schimpf Halbe Spezial",
+    "description": "würzig frisches Exportbier, 20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,80)",
+    "price": "17.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 566,
+    "name": "EDEKA Bio Heidelbeeren",
+    "description": "aus Spanien oder Marokko, Klasse II, 300 g, (1 kg = 13,30)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Bio-Lebensmittel"
+    ]
+  },
+  {
+    "id": 567,
+    "name": "Donnerstag bis Samstag: Barbarossaschinken",
+    "description": "100 g",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 568,
+    "name": "HALLOREN Halloren O's",
+    "description": "je 125-g-Packg.",
+    "price": "1.11",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Kekse & Gebäck",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 569,
+    "name": "Spielhaus »Happy House«",
+    "description": "je",
+    "price": "59.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Garten",
+      "Kinder"
+    ]
+  },
+  {
+    "id": 570,
+    "name": "MAUI Herren-Clogs",
+    "description": "je Paar",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Schuhe",
+      "Herrenmode",
+      "Freizeitbekleidung"
+    ]
+  },
+  {
+    "id": 571,
+    "name": "EiszeitQuell Mineralwasser",
+    "description": "versch. Sorten, z. B. Medium 12 x 0,7 L, zzgl. 3,30 Pfand, (1 L = 0,40)",
+    "price": "3.33",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Mineralwasser",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Kohlrabi",
+    "description": "Kl. I , je St",
+    "price": "0.49",
+    "store": "Rewe",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Regional"
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Frankreich: Blanchet Wein",
+    "description": "versch. Sorten, 0,75 L\n \n• frisch, fruchtig, spritzig\n \n• 8–10 °C, (1 L = 3,99)",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Frankreich"
+    ]
+  },
+  {
+    "id": 574,
+    "name": "Philadelphia Frischkäsezubereitung",
+    "description": "versch. Sorten, 100 - 175 g, (1 kg = 11,10 - 6,34)",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Milchprodukte",
+      "Aufstriche",
+      "Käse"
+    ]
+  },
+  {
+    "id": 575,
+    "name": "Langnese Cremissimo",
+    "description": "Haselnuss Vanilla Schokolade , je 1000-ml-Becher",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Eis",
+      "Dessert",
+      "Tiefkühlprodukte"
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Chiquita Bananen",
+    "description": "aus Costa Rica, 1 kg",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Früchte",
+      "Exotische Früchte"
+    ]
+  },
+  {
+    "id": 577,
+    "name": "Purina One Katzennahrung",
+    "description": "versch. Sorten, 750 g, (1 kg = 4,39)",
+    "price": "3.29",
+    "store": "Edeka",
+    "categories": [
+      "Tiernahrung",
+      "Katzenbedarf",
+      "Trockenfutter"
+    ]
+  },
+  {
+    "id": 578,
+    "name": "NOA Veganer Brotaufstrich",
+    "description": "je 175-g-Becher",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Vegan",
+      "Brotaufstrich",
+      "Aufbewahrung Kühlung"
+    ]
+  },
+  {
+    "id": 579,
+    "name": "LUKULL Sauce Hollandaise",
+    "description": "je 250-ml-Packg.",
+    "price": "1.29",
+    "store": "Kaufland",
+    "categories": [
+      "Saucen",
+      "Feinkost",
+      "Fertigprodukte"
+    ]
+  },
+  {
+    "id": 580,
+    "name": "Langnese Magnum Eis",
+    "description": "tiefgefroren, versch. Sorten, 255 - 360 ml, (1 L = 9,76 - 6,92)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Eiscreme",
+      "Tiefkühlprodukte",
+      "Desserts"
+    ]
+  },
+  {
+    "id": 581,
+    "name": "ROTKÄPPCHEN Sekt",
+    "description": "je 0,75-l-Fl.",
+    "price": "2.79",
+    "store": "Kaufland",
+    "categories": [
+      "Sekt",
+      "Alkoholische Getränke",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 582,
+    "name": "HARIBO Fruchtgummis oder Lakritze",
+    "description": "je 160 - 175-g-Packg.",
+    "price": "0.77",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Snacks",
+      "Nascherei"
+    ]
+  },
+  {
+    "id": 583,
+    "name": "Teinacher Genuss Limonaden",
+    "description": "auch Light, versch. Sorten, 12 x 0,75 L, zzgl. 3,30 Pfand, (1 L = 0,89)",
+    "price": "7.99",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Limonaden",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 584,
+    "name": "¹Frisch aus Neuseeland: Lammsteakhüfte",
+    "description": "ideal zum Grillen geeignet, 100 g\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich.",
+    "price": "2.89",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Grillen",
+      "Lamm"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "CARRERA Rotationsrasierer »02475«",
+    "description": "je",
+    "price": "19.99",
+    "store": "Kaufland",
+    "categories": [
+      "Elektrorasierer",
+      "Körperpflege",
+      "Herrenbedarf"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "Kölln Bio Haferflocken zart",
+    "description": "auch kernig, 500 g, (1 kg = 3,38)",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Frühstück",
+      "Bio-Produkte",
+      "Getreide"
+    ]
+  },
+  {
+    "id": 587,
+    "name": "Teekanne Kräutertee Minze",
+    "description": "je 45-g-Pckg , (1 kg = 33,11)",
+    "price": "1.49",
+    "store": "Rewe",
+    "categories": [
+      "Tee",
+      "Kräutertee",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Fairy Geschirrspülmittel",
+    "description": "versch. Sorten , je 450-ml-Fl , (1 l = 2,87)",
+    "price": "1.29",
+    "store": "Rewe",
+    "categories": [
+      "Haushalt",
+      "Reinigungsmittel",
+      "Küche"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Gallo Family Vineyards",
+    "description": "versch. Sorten , je 0,75-l-Fl , (1 l = 5,32)",
+    "price": "3.99",
+    "store": "Rewe",
+    "categories": [
+      "Wein",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "MATTEL Spielset »Barbie Chelsea Pop Reveal«",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Puppen",
+      "Kindergeschenke"
+    ]
+  },
+  {
+    "id": 591,
+    "name": "NESCAFÉ Classic oder Classic Mild",
+    "description": "je 200-g-Glas",
+    "price": "5.55",
+    "store": "Kaufland",
+    "categories": [
+      "Kaffee",
+      "Heißgetränke",
+      "Instantprodukte"
+    ]
+  },
+  {
+    "id": 592,
+    "name": "Spanien: Campo Viejo Rioja Tempranillo DOC",
+    "description": "auch Rosé DOC,  0,75 L\n \n• würziges Bouquet\n \n• 16–17 °C, (1 L = 6,65)",
+    "price": "4.99",
+    "store": "Edeka",
+    "categories": [
+      "Rotwein",
+      "Spanien",
+      "Rioja"
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Nuii Ice Cream Salted Caramel & Australian Macadamia",
+    "description": "je 3 x 90-ml-Pckg , (1 l = 7,37)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Eiscreme",
+      "Süßwaren",
+      "Desserts"
+    ]
+  },
+  {
+    "id": 594,
+    "name": "GARDENA Schlauchwagen-Set S »CleverRoll«",
+    "description": "je",
+    "price": "49.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenzubehör",
+      "Bewässerung",
+      "Gartengeräte"
+    ]
+  },
+  {
+    "id": 595,
+    "name": "COUNTRYSIDE® Kühltasche",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltswaren",
+      "Freizeit & Outdoor",
+      "Picknickbedarf"
+    ]
+  },
+  {
+    "id": 596,
+    "name": "MAUI Damen-Clogs",
+    "description": "je Paar",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Schuhe",
+      "Damenbekleidung",
+      "Freizeit"
+    ]
+  },
+  {
+    "id": 597,
+    "name": "Dtsch. Spitzpaprika-Mix",
+    "description": "je 350-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Paprika",
+      "Frischprodukte"
+    ]
+  },
+  {
+    "id": 598,
+    "name": "Schnittkäse Kümmel",
+    "description": "mind. 50% Fett i. Tr., 100 g",
+    "price": "2.79",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Kit Kat",
+    "description": "4er, 166 g, Lion, 5er, 150 g und weitere Sorten, (1 kg = 11,93 - 10,78)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Süßwaren",
+      "Schokoriegel",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 600,
+    "name": "LIV&BO® Wanduhr",
+    "description": "je",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Wohnaccessoires",
+      "Uhren",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Donnerstag bis Samstag: EDEKA Herzstücke Avocados",
+    "description": "aus Marokko oder Peru, Klasse I, Stück\n \n• Genussreif",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Exotische Früchte",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "KALEA Männerhandtasche Hell",
+    "description": "je Box = 10 x 0,5-l-Fl.",
+    "price": "23.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Geschenksets",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "HENKELL Piccolo-Sekt",
+    "description": "je 0,2-l-Fl.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Sekt",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Dr. Oetker Paradiescreme",
+    "description": "versch. Sorten, 56 - 74 g, (1 kg = 14,11 - 10,68)",
+    "price": "0.79",
+    "store": "Edeka",
+    "categories": [
+      "Desserts",
+      "Backzutaten",
+      "Fertigprodukte"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "KIDLAND® Hüpfburg aufblasbar",
+    "description": "je 14-teilig",
+    "price": "49.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Outdoor",
+      "Kinderparty"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "LIV&BO® Frottier-Badetuch",
+    "description": "je",
+    "price": "9.99",
+    "store": "Kaufland",
+    "categories": [
+      "Handtücher",
+      "Badezimmerzubehör",
+      "Haushaltswaren"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "K-PURLAND Rinderschmorbraten aus der Keule vom Jungbullen",
+    "description": "je kg",
+    "price": "11.99",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Rind",
+      "Braten"
+    ]
+  },
+  {
+    "id": 608,
+    "name": "XTREM Super Blaster",
+    "description": "futuristisch aussehende Seifenblasen-Pistole, batteriebetrieben, inkl. 50 ml Seifenblasen-Flüssigkeit\n \n• In den Scheck-In Centern Bühlertal, Heidelberg Kurfürstenanlage 21-23, Heidelberg-Bahnstadt, Frankfurt-Sachsenhausen Hainer Weg 56-80, Frankfurt-Niederrad Hahnstraße 37-41 und Offenbach nicht erhältlich",
+    "price": "4.99",
+    "store": "Edeka",
+    "categories": [
+      "Spielzeug",
+      "Outdoor",
+      "Sommerartikel"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Ital. Kräuter",
+    "description": "je",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Gewürze",
+      "Kräuter",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "EDEKA zuhause Kaffeemaschine CM24-183",
+    "description": "abnehmbarer Wassertank, LC-Display mit Timerfunktion, für bis zu 17 Tassen, Fassungsvermögen: 1,5 Liter (Glaskanne), 1.000 Watt, komfortables Bedienfeld\n \n• In den Scheck-In Centern Bühlertal, Heidelberg Kurfürstenanlage 21-23, Heidelberg-Bahnstadt, Frankfurt-Sachsenhausen Hainer Weg 56-80, Frankfurt-Niederrad Hahnstraße 37-41 und Offenbach nicht erhältlich",
+    "price": "29.99",
+    "store": "Edeka",
+    "categories": [
+      "Kaffeemaschinen",
+      "Küchengeräte",
+      "Haushaltswaren"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "FRECHE FREUNDE Bio-Frucht-Snack",
+    "description": "je 100-g-Beutel",
+    "price": "0.79",
+    "store": "Kaufland",
+    "categories": [
+      "Snacks",
+      "Bio-Produkte",
+      "Kinderprodukte"
+    ]
+  },
+  {
+    "id": 612,
+    "name": "LÖWENSENF Extra scharf",
+    "description": "je 200-ml-Tube",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Senf",
+      "Würzmittel",
+      "Grillzubehör"
+    ]
+  },
+  {
+    "id": 613,
+    "name": "Alpro Barista Kokosnuss-Drink",
+    "description": "oder Mandeldrink, geröstet, ohne Zucker, 1 L",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Pflanzliche Milchalternativen",
+      "Vegane Getränke",
+      "Laktosefreie Produkte"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Span. Pfirsiche",
+    "description": "je 1-kg-Schale",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Saisonale Artikel"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "La Döna Spieße",
+    "description": "gemischte Hackfleischzubereitung, mit dem typischen Döner-Kebab-Geschmack auf einem Fähnchenspieß, 100 g",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Fertiggerichte",
+      "Fleischprodukte",
+      "Grillartikel"
+    ]
+  },
+  {
+    "id": 616,
+    "name": "Katzentunnel",
+    "description": "je",
+    "price": "14.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haustierbedarf",
+      "Katzenzubehör",
+      "Spielzeug"
+    ]
+  },
+  {
+    "id": 617,
+    "name": "Staatl. Fachingen",
+    "description": "versch. Sorten, z. B. Still 12 x 0,75 L, zzgl. 3,30 Pfand, (1 L = 0,78)",
+    "price": "6.99",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Mineralwasser",
+      "Mehrweg"
+    ]
+  },
+  {
+    "id": 618,
+    "name": "EDEKA Bio Bioland-Kürbiskernbrötchen",
+    "description": "300 g, (1 kg = 8,30)",
+    "price": "2.49",
+    "store": "Edeka",
+    "categories": [
+      "Bio-Backwaren",
+      "Brötchen",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Nivea Deo Roll-On",
+    "description": "Fresh Ocean , je 50-ml-Roller , (1 l = 59,80)",
+    "price": "2.99",
+    "store": "Rewe",
+    "categories": [
+      "Deodorant",
+      "Körperpflege",
+      "Drogerie"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "MEBUS Kinder-SOS-Smartwatch »70900/70901«",
+    "description": "je",
+    "price": "17.99",
+    "store": "Kaufland",
+    "categories": [
+      "Elektronik",
+      "Kinderartikel",
+      "Smartwatches"
+    ]
+  },
+  {
+    "id": 621,
+    "name": "Gemüsepflanzen",
+    "description": "je",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Pflanzen",
+      "Garten",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 622,
+    "name": "WC-Bürsten-Garnitur",
+    "description": "je",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Haushaltswaren",
+      "Reinigungszubehör",
+      "Badezimmerausstattung"
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Oro di Parma Tomatenmark",
+    "description": "200 g oder Sauce, 400 g, versch. Sorten, (1 kg = 6,45 - 3,23)",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Tomatenprodukte",
+      "Saucen & Pasten",
+      "Grundzutaten"
+    ]
+  },
+  {
+    "id": 624,
+    "name": "Schweizer Emmentaler AOP",
+    "description": "je 100 g",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 625,
+    "name": "¹Rote Meerbarbenfilets",
+    "description": "zum Verzehr aufgetaut, 100 g\n \n• ¹Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "2.79",
+    "store": "Edeka",
+    "categories": [
+      "Fisch & Meeresfrüchte",
+      "Frischetheke",
+      "Tiefkühlprodukte"
+    ]
+  },
+  {
+    "id": 626,
+    "name": "EDEKA zuhause Akkustielsauger UVC-126735",
+    "description": "Laufzeit: ca. 40 min., Staubfüllkapazität: 800 ml, BLDC-Motor mit hoher Saugkraft, 25,9 V Lithium-Ionen-Akku, automatischer Dust-Sensor, Teleskopsaugrohr, 3 Leistungsstufen + Automatikstufe (Dust-Sensor)",
+    "price": "99.99",
+    "store": "Edeka",
+    "categories": [
+      "Staubsauger",
+      "Haushaltsgeräte",
+      "Reinigung"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "LIV&BO® Frottier-Duschtuch",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Badtextilien",
+      "Handtücher",
+      "Badezimmerausstattung"
+    ]
+  },
+  {
+    "id": 628,
+    "name": "L‘Oréal Men Expert Duschgel",
+    "description": "versch. Sorten, 250 ml, (1 L = 7,16)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Duschgel",
+      "Männerpflege",
+      "Körperhygiene"
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Bio Lemonaid oder Chari Tea",
+    "description": "versch. Sorten, 0,33 L, zzgl. 0,25 Pfand, (1 L = 3,91)",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Bio-Produkte",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 630,
+    "name": "Seeberger Nuts ’n Berries",
+    "description": "je 150-g-Btl",
+    "price": "0.00",
+    "store": "Rewe",
+    "categories": [
+      "Snacks",
+      "Trockenfrüchte & Nüsse",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 631,
+    "name": "K-PURLAND Schweinefilet am Stück",
+    "description": "je kg",
+    "price": "7.77",
+    "store": "Kaufland",
+    "categories": [
+      "Fleisch",
+      "Schwein",
+      "Frischfleisch"
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Roland Bretzeli Classic",
+    "description": "oder Sesam, 100 g, (1 kg = 15,90)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Snacks",
+      "Gebäck",
+      "Knabberartikel"
+    ]
+  },
+  {
+    "id": 633,
+    "name": "WIESBAUER Österr. Wurstspezialitäten",
+    "description": "je 80-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Wurstwaren",
+      "Fleischprodukte",
+      "Aufschnitt"
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Gut & Günstig Zitronen",
+    "description": "aus Spanien oder Italien, Klasse I, 500 g, (1 kg = 2,00)",
+    "price": "1.00",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Zitrusfrüchte",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 635,
+    "name": "REMINGTON Nasenhaartrimmer »NE3870«",
+    "description": "je",
+    "price": "12.99",
+    "store": "Kaufland",
+    "categories": [
+      "Körperpflege",
+      "Haarentfernung",
+      "Elektrorasierer"
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Fuzetea",
+    "description": "versch. Sorten, 1,25 L, zzgl. 0,25 Pfand, (1 L = 1,03)",
+    "price": "1.29",
+    "store": "Edeka",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Eistee",
+      "alkoholfreie Getränke"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Bio Alnatura Kokosmilch",
+    "description": "400 ml, (1 L = 3,98)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Kokosprodukte",
+      "Pflanzenbasierte Milchalternativen",
+      "Bio-Lebensmittel"
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Iglo Schlemmerfilet Bordelaise Classic",
+    "description": "tiefgefroren , je 380-g-Pckg , (1 kg = 7,08)",
+    "price": "2.69",
+    "store": "Rewe",
+    "categories": [
+      "Tiefkühlkost",
+      "Fischprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Gut & Günstig Trauben hell",
+    "description": "aus Südafrika oder Indien, Klasse I, 500 g, (1 kg = 2,98)",
+    "price": "1.49",
+    "store": "Edeka",
+    "categories": [
+      "Obst",
+      "Trauben",
+      "Südfrüchte"
+    ]
+  },
+  {
+    "id": 640,
+    "name": "BBQ Onions",
+    "description": "Gemüsezwiebelringe ummantelt mit mariniertem Grillbauch vom Schwein, 100 g",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Fleischwaren",
+      "Grillprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Hofglück Lyoner oder Paprika-Lyoner",
+    "description": "100 g, (1 kg = 11,90)",
+    "price": "1.19",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Herta Saftschinken oder Grillschinken",
+    "description": "100 g, (1 kg = 16,90)",
+    "price": "1.69",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Aufschnitt",
+      "Fleischprodukte"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Wiltmann Delikatess Schweinezunge in Aspik",
+    "description": "100 g",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Fleischwaren",
+      "Feinkost",
+      "Konserven"
+    ]
+  },
+  {
+    "id": 644,
+    "name": "FRIWEIKA Mini-Grillkartoffeln",
+    "description": "je 400-g-Packg.",
+    "price": "1.59",
+    "store": "Kaufland",
+    "categories": [
+      "Kartoffelprodukte",
+      "Grillprodukte",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Bionella Nuss-Nougat-Creme",
+    "description": "400 g, (1 kg = 8,73)",
+    "price": "3.49",
+    "store": "Edeka",
+    "categories": [
+      "Brotaufstriche",
+      "Bio-Produkte",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Hohes C Vitamin Water",
+    "description": "versch. Sorten , je 0,75-l-Fl , (1 l = 1,85) , zzgl. 0,25 Pfand",
+    "price": "1.39",
+    "store": "Rewe",
+    "categories": [
+      "Erfrischungsgetränke",
+      "Vitamingetränke",
+      "alkoholfreie Getränke"
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Marokk./port. Himbeeren",
+    "description": "je 200-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 648,
+    "name": "BITBURGER Premium Pils",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "price": "10.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 649,
+    "name": "SPICE&SOUL® Schüssel-Set",
+    "description": "je 3-teilig",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Küchenzubehör",
+      "Haushaltswaren",
+      "Geschirr"
+    ]
+  },
+  {
+    "id": 650,
+    "name": "Span. Nektarinen",
+    "description": "je 1-kg-Schale",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Frischeprodukte",
+      "Saisonale Angebote"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "GARDENA Comfort-Vielflächenregner »AquaContour automatic«",
+    "description": "je",
+    "price": "129.00",
+    "store": "Kaufland",
+    "categories": [
+      "Gartenbewässerung",
+      "Bewässerungssysteme",
+      "Gartenzubehör"
+    ]
+  },
+  {
+    "id": 652,
+    "name": "Rindersteaks",
+    "description": "aus dem Entrecôte, optimal gereiftes Rindfleisch, 100 g",
+    "price": "3.33",
+    "store": "Edeka",
+    "categories": [
+      "Fleisch",
+      "Rind",
+      "Grillen"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "DUSCHDAS Duschgel",
+    "description": "je 225-ml-Fl.",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Körperpflege",
+      "Duschgel",
+      "Hygiene"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "San Daniele",
+    "description": "der König der Schinken, luftgetrocknete Spitzenqualität von besonderer Zartheit, benannt nach seinem Herkunftsort San Daniele in Friaul, Italien, diese Delikatesse reift mind. 16 Monate, 100 g",
+    "price": "4.49",
+    "store": "Edeka",
+    "categories": [
+      "Schinken",
+      "Delikatessen",
+      "Italienische Spezialitäten"
+    ]
+  },
+  {
+    "id": 655,
+    "name": "Baden Ortenauer Weinkeller 53 Grauer Burgunder Kabinett trocken",
+    "description": "und weitere Sorten, 0,75 L\n \n• süßliche Aromen, feine Säure\n \n• 8–10 °C, (1 L = 7,99)",
+    "price": "5.99",
+    "store": "Edeka",
+    "categories": [
+      "Wein",
+      "Alkoholische Getränke",
+      "Weißwein"
+    ]
+  },
+  {
+    "id": 656,
+    "name": "ja! Wurstsalat Schweizer Art",
+    "description": "je 300-g-Becher , (1 kg = 6,63)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Fertigsalate",
+      "Wurstwaren",
+      "Kühltheke"
+    ]
+  },
+  {
+    "id": 657,
+    "name": "Kinder Bueno",
+    "description": "je 10 x 21,5-g-Pckg , (1 kg = 12,98)",
+    "price": "2.79",
+    "store": "Rewe",
+    "categories": [
+      "Süßwaren",
+      "Schokoriegel",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 658,
+    "name": "GARDENA Garten-Schlauchbox mit Spieß »RollUp M«",
+    "description": "je",
+    "price": "129.00",
+    "store": "Kaufland",
+    "categories": [
+      "Gartengeräte",
+      "Bewässerung",
+      "Schlauchaufbewahrung"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "MATTEL HOT WHEELS Mario Kart Replica",
+    "description": "je",
+    "price": "5.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Sammelfiguren",
+      "Fahrzeuge"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Berchtesgadener Land Frische Buttermilch",
+    "description": "500 g, (1 kg = 1,58)",
+    "price": "0.79",
+    "store": "Edeka",
+    "categories": [
+      "Milchprodukte",
+      "Getränke",
+      "Kühlprodukte"
+    ]
+  },
+  {
+    "id": 661,
+    "name": "MEGGLE Kräuter-Butter",
+    "description": "je 100-g-Packg. oder 80-ml-Tube",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Butter",
+      "Aufstriche",
+      "Gewürze"
+    ]
+  },
+  {
+    "id": 662,
+    "name": "LEGO TECHNIC »Schwerlast Bulldozer« Spielset 42163",
+    "description": "je 195-teilig",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bauspielzeug",
+      "Konstruktionsspielzeug",
+      "Technisches Spielzeug"
+    ]
+  },
+  {
+    "id": 663,
+    "name": "Pahmeyer Mini Reibekuchen",
+    "description": "je 300-g-Schale , (1 kg = 5,97)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Fertiggerichte",
+      "Tiefkühlprodukte",
+      "Kartoffelprodukte"
+    ]
+  },
+  {
+    "id": 664,
+    "name": "Funnyfrisch Chipsfrisch ungarisch",
+    "description": "4 x 40 g, (1 kg = 11,19)",
+    "price": "1.79",
+    "store": "Edeka",
+    "categories": [
+      "Chips",
+      "Snacks",
+      "Kartoffelprodukte"
+    ]
+  },
+  {
+    "id": 665,
+    "name": "Hellmann’s Tomato Ketchup",
+    "description": "je 500-ml-Fl , (1 l = 3,98)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Ketchup",
+      "Saucen & Dips",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 666,
+    "name": "Kerrygold extra",
+    "description": "versch. Sorten , je 400-g-Becher , (1 kg = 7,98)",
+    "price": "3.19",
+    "store": "Rewe",
+    "categories": [
+      "Butter & Aufstriche",
+      "Milchprodukte",
+      "Frühstück"
+    ]
+  },
+  {
+    "id": 667,
+    "name": "Veltins Pilsener",
+    "description": "20 x 0,5 L, zzgl. 3,10 Pfand, (1 L = 1,10)",
+    "price": "10.99",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkohol"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "Kauffmann Kressi Kräuter Vollwürz-Essig",
+    "description": "0,75 L, (1 L = 1,48)",
+    "price": "1.11",
+    "store": "Edeka",
+    "categories": [
+      "Essig & Öl",
+      "Gewürze & Würzmittel",
+      "Salatzutaten"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "SNICKERS, MARS, BOUNTY, MILKY WAY oder TWIX Minis",
+    "description": "je 7 - 14 St. = 227-g-Packg.",
+    "price": "2.99",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Schokoriegel",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 670,
+    "name": "BLOCK HOUSE Gewürz",
+    "description": "je 50 - 80-g-Glas",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gewürze",
+      "Lebensmittel",
+      "Kochen"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "Tetra Kauknochen 8-in-1",
+    "description": "versch. Sorten, 84 - 113 g, (1 kg = 47,50 - 35,31)",
+    "price": "3.99",
+    "store": "Edeka",
+    "categories": [
+      "Tiernahrung",
+      "Hundezubehör",
+      "Kausnacks"
+    ]
+  },
+  {
+    "id": 672,
+    "name": "MILRAM Gewürzquark",
+    "description": "je 185-g-Becher",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Milchprodukte",
+      "Aufstriche & Dips",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "Schwarzwaldhof Apfelsaft naturtrüb oder klar",
+    "description": "Direktsaft, 6 x 1 L, zzgl. 2,40 Pfand, (1 L = 1,50)",
+    "price": "8.99",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Säfte",
+      "Apfelsaft"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "Innocent Saft Orange",
+    "description": "ohne Fruchtfleisch , je 330-ml-Fl , (1 l = 4,52) , zzgl. 0,25 Pfand",
+    "price": "1.49",
+    "store": "Rewe",
+    "categories": [
+      "Getränke",
+      "Saft",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "STORCK Nimm2 Fruchtbonbons, Soft oder Lollies",
+    "description": "je 200 - 429-g-Packg.",
+    "price": "1.69",
+    "store": "Kaufland",
+    "categories": [
+      "Süßwaren",
+      "Bonbons",
+      "Snacks"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "Fies Select Williams Birnenbrand",
+    "description": "40% Vol. und weitere Sorten, 0,7 L, (1 L = 14,27)",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Spirituosen",
+      "Obstbrand",
+      "Alkoholische Getränke"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "KLEINER FEIGLING Likör Original",
+    "description": "je Packg. 12 x 0,02-l-Fl.",
+    "price": "5.49",
+    "store": "Kaufland",
+    "categories": [
+      "Likör",
+      "Partygetränke",
+      "Spirituosen"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Mövenpick Gourmet-Frühstück Fruchtaufstrich",
+    "description": "versch. Sorten , je 250-g-Glas , (1 kg = 7,96)",
+    "price": "1.99",
+    "store": "Rewe",
+    "categories": [
+      "Aufstriche & Konfitüren",
+      "Frühstück",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Bäuerliche Erzeugergemeinschaft Schwäbisch Hall Bio-Dosenwurst",
+    "description": "versch. Sorten, 200 g, (1 kg = 18,95)",
+    "price": "3.79",
+    "store": "Edeka",
+    "categories": [
+      "Wurstwaren",
+      "Bio-Produkte",
+      "Konserven"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "IGLO Rahm-Spinat",
+    "description": "je 750-g-Packg.",
+    "price": "1.79",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlkost",
+      "Gemüse",
+      "Fertiggerichte"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Le Rustique Camembert",
+    "description": "mind. 47% Fett i. Tr., 250 g, auch Portionen, mind. 48% Fett. i. Tr., 8 x 30 g, (1 kg = 11,63 - 11,16)",
+    "price": "2.79",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Feinkost",
+      "Französische Spezialitäten"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Gut & Günstig Eisbergsalat",
+    "description": "aus Deutschland, Klasse I, Stück",
+    "price": "0.66",
+    "store": "Edeka",
+    "categories": [
+      "Salate",
+      "Gemüse",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "Portug./marokk. Brombeeren",
+    "description": "je 170-g-Packg.",
+    "price": "1.99",
+    "store": "Kaufland",
+    "categories": [
+      "Obst",
+      "Beeren",
+      "Frischeprodukte"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "¹France P‘tit Basque",
+    "description": "franz. Schnittk. aus Schafsmilch, mind. 50% Fett i. Tr., vollmundiges, fruchtiges Aroma, 100 g\n \n• ¹An der Bedientheke in allen teilnehmenden E Center Märkten erhältlich.",
+    "price": "3.49",
+    "store": "Edeka",
+    "categories": [
+      "Käse",
+      "Schafsmilchprodukte",
+      "Feinkost"
+    ]
+  },
+  {
+    "id": 685,
+    "name": "WUNDERGARTEN Wundererde",
+    "description": "je 20-l-Packg.",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen & Pflanzen",
+      "Gartenzubehör",
+      "Erde & Substrate"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "PARKSIDE® Mährobotergarage »PUMRG A1«",
+    "description": "je",
+    "price": "39.99",
+    "store": "Kaufland",
+    "categories": [
+      "Garten",
+      "Rasenpflege",
+      "Zubehör"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "LIV&BO® Multifunktionsbrause-Set rund",
+    "description": "je",
+    "price": "7.99",
+    "store": "Kaufland",
+    "categories": [
+      "Bad & Sanitär",
+      "Duschzubehör",
+      "Haushaltswaren"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "LEGO CITY »Polizeiauto« Spielset 60312",
+    "description": "je 94-teilig",
+    "price": "6.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielwaren",
+      "Bausätze",
+      "Polizeispielzeug"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "Singender Kaktus",
+    "description": "spielt Party- und Reggae-Lieder ab, tanzt zu Musik, mit Sprachaufzeichnungsfunktion, B x H x T: ca. 11 x 11 x 35 cm, inkl. 3 Batterien (1,5 Volt, AA, austauschbar)\n \n• Ca. 35 cm hoch\n \n• In den Scheck-In Centern Bühlertal, Heidelberg Kurfürstenanlage 21-23, Heidelberg-Bahnstadt, Frankfurt-Sachsenhausen Hainer Weg 56-80, Frankfurt-Niederrad Hahnstraße 37-41 und Offenbach nicht erhältlich",
+    "price": "9.99",
+    "store": "Edeka",
+    "categories": [
+      "Spielzeug",
+      "Partyzubehör",
+      "Elektronische Gadgets"
+    ]
+  },
+  {
+    "id": 690,
+    "name": "Bärenmarke Frisch- oder H-Milch",
+    "description": "versch. Sorten, 3,8% Fett , je 1-l-Pckg",
+    "price": "1.11",
+    "store": "Rewe",
+    "categories": [
+      "Milchprodukte",
+      "Getränke",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "Booster Energy4Life",
+    "description": "versch. Sorten, koffeinhaltig, 0,5 L, zzgl. 0,25 Pfand, (1 L = 1,98)",
+    "price": "0.99",
+    "store": "Edeka",
+    "categories": [
+      "Energy-Drinks",
+      "Getränke",
+      "Erfrischungsgetränke"
+    ]
+  },
+  {
+    "id": 692,
+    "name": "BLOCK HOUSE Brioche Bun",
+    "description": "je 2 St. = 160-g-Packg.",
+    "price": "1.39",
+    "store": "Kaufland",
+    "categories": [
+      "Burger-Zubehör",
+      "Backwaren",
+      "Grillen"
+    ]
+  },
+  {
+    "id": 693,
+    "name": "Ben’s Original Express Reis",
+    "description": "versch. Sorten, 220 g, (1 kg = 7,23)",
+    "price": "1.59",
+    "store": "Edeka",
+    "categories": [
+      "Reis",
+      "Fertiggerichte",
+      "Beilagen"
+    ]
+  },
+  {
+    "id": 694,
+    "name": "K-CLASSIC Tonic Water, Ginger Ale, Bitter Lemon o. Wild Berry",
+    "description": "je 1,5-l-PET-Fl.",
+    "price": "0.59",
+    "store": "Kaufland",
+    "categories": [
+      "Erfrischungsgetränke",
+      "alkoholfreie Getränke",
+      "Mixgetränke"
+    ]
+  },
+  {
+    "id": 695,
+    "name": "NESCAFÉ Farmers Origins",
+    "description": "je 10 St. = 44-g-Packg.",
+    "price": "2.49",
+    "store": "Kaufland",
+    "categories": [
+      "Kaffee",
+      "Kapseln",
+      "Getränke"
+    ]
+  },
+  {
+    "id": 696,
+    "name": "Bahlsen Pick Up!",
+    "description": "versch. Sorten , je 5 x 28-g-Pckg , (1 kg = 12,79)",
+    "price": "1.79",
+    "store": "Rewe",
+    "categories": [
+      "Kekse",
+      "Snacks",
+      "Süßwaren"
+    ]
+  },
+  {
+    "id": 697,
+    "name": "Rügenwalder Vegane Mühlen Cordon bleu",
+    "description": "je 2 x 100-g-Pckg , (1 kg = 12,45)",
+    "price": "2.49",
+    "store": "Rewe",
+    "categories": [
+      "Vegane Lebensmittel",
+      "Fleischersatz",
+      "Tiefkühlprodukte"
+    ]
+  },
+  {
+    "id": 698,
+    "name": "GRÜNLÄNDER Dtsch. Schnittkäse",
+    "description": "je 140-g-Packg.",
+    "price": "1.49",
+    "store": "Kaufland",
+    "categories": [
+      "Käse",
+      "Milchprodukte",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 699,
+    "name": "Ab Dienstag: ²Lachs-Zitronengras-Filets",
+    "description": "Lachsfilet mit Gewürz-/ Kräutermarinade und einem Zitronengrasspieß, 100 g\n \n• ²Angebote der Fisch-Bedientheke nur erhältlich in den Filialen Göppingen Dieselstraße, Geislingen und Bonlanden.",
+    "price": "2.99",
+    "store": "Edeka",
+    "categories": [
+      "Fisch & Meeresfrüchte",
+      "Marinierte Spezialitäten",
+      "Frischetheke"
+    ]
+  },
+  {
+    "id": 700,
+    "name": "Oro di Parma passierte Tomaten",
+    "description": "700 g, (1 kg = 2,84)",
+    "price": "1.99",
+    "store": "Edeka",
+    "categories": [
+      "Dosentomaten",
+      "Tomatenprodukte",
+      "Grundnahrungsmittel"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "JÜTRO Himbeeren",
+    "description": "je 750-g-Packg.",
+    "price": "3.99",
+    "store": "Kaufland",
+    "categories": [
+      "Tiefkühlobst",
+      "Beeren",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "Flensburger Pilsener",
+    "description": "20 x 0,33 L, zzgl. 4,50 Pfand, (1 L = 1,89)",
+    "price": "12.49",
+    "store": "Edeka",
+    "categories": [
+      "Bier",
+      "Getränke",
+      "Alkoholhaltige Getränke"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Ital. Bundmöhren",
+    "description": "je Bund",
+    "price": "0.99",
+    "store": "Kaufland",
+    "categories": [
+      "Gemüse",
+      "Frischeprodukte",
+      "Saisonale Produkte"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Sommerblumen",
+    "description": "je",
+    "price": "4.99",
+    "store": "Kaufland",
+    "categories": [
+      "Blumen",
+      "Saisonartikel",
+      "Dekoration"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "DOLU TOY FACTORY Kinderschaukel 3 in 1",
+    "description": "je",
+    "price": "24.99",
+    "store": "Kaufland",
+    "categories": [
+      "Spielzeug",
+      "Outdoor",
+      "Kinderbedarf"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Alwa Mineralwasser",
+    "description": "versch. Sorten, 12 x 1 L, zzgl. 3,30 Pfand, (1 L = 0,46)",
+    "price": "5.49",
+    "store": "Edeka",
+    "categories": [
+      "Getränke",
+      "Mineralwasser",
+      "Mehrweg"
+    ]
+  }
+]

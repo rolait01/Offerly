@@ -1,0 +1,90 @@
+Offerly – Die smarte Einkaufshelfer-App
+Ein Applied-AI-Projekt im Kontext moderner Softwaretechnik
+
+1. Das Problem
+
+Verbraucher:innen stehen regelmäßig vor denselben Herausforderungen:
+
+Unübersichtliche Preisstruktur: Jeder Supermarkt (z. B. Rewe, Edeka, Lidl) veröffentlicht Aktionen und Angebote auf eigenen Plattformen. Ein sinnvoller Vergleich ist zeitaufwendig und selten effizient.
+
+Versteckte Sparpotenziale: Günstige Eigenmarken oder bessere Preis-Leistungs-Verhältnisse werden oft übersehen.
+
+Unpräzise Sucherlebnisse: Nutzer müssen exakt wissen, wonach sie suchen – stimmungs- oder bedarfsbasierte Suchanfragen sind mit klassischen Mitteln nicht möglich.
+
+
+2. Die Lösung: Offerly
+
+Offerly vereint moderne Web-Scraping-Techniken, NLP und semantische AI-Verfahren zu einer intuitiven App, die gezielt beim Lebensmitteleinkauf unterstützt.
+
+3. Features
+
+Intelligente Produktsuche: Schnelle Suche nach aktuellen Angeboten mit AI-gestützter semantischer Ähnlichkeit (Sentence Transformers).
+
+Stimmungsbasierte Suche: Nutzer formulieren Bedürfnisse wie „Ich will etwas für einen Filmabend“ – die AI schlägt passende Produkte (Chips, Softdrinks etc.) vor.
+
+NLP-Freitextsuche: Natürlichsprachliche Eingaben wie „etwas Schokoladiges unter 2 €“ werden analysiert und entsprechend interpretiert.
+
+Preis/Gramm-Analyse: Automatische Umrechnung des Angebots auf Preis/Einheit und Empfehlung des besten Deals.
+
+Markenvergleich: Empfehlungen für günstigere Alternativen oder Eigenmarken mit ähnlichem Profil.
+
+4. Architektur
+
+Frontend (Flutter):
+
+Plattformübergreifendes UI mit Suchleiste, gefilterten Ergebnislisten, Favoritenfunktion und Preisvergleichen.
+
+Kommunikation mit dem Backend über eine REST-API (HTTPS, JSON).
+
+Nutzer gibt Freitextanfragen, Stimmungs- oder Zielformulierungen ein.
+
+
+Backend (Python + FastAPI):
+
+Modularer Aufbau nach Clean Architecture: Datenzugriff, AI-Verarbeitung und API sind strikt getrennt.
+
+Alle AI-Funktionen laufen serverseitig in dedizierten Services.
+
+5. AI-Module im Überblick
+5.1 Semantische Produktsuche:
+
+Technologie: sentence-transformers mit Modell paraphrase-MiniLM-L6-v2.
+
+Funktionsweise: Alle Produktnamen werden einmalig vektorisiert und gespeichert. Bei jeder Nutzeranfrage wird der Anfrage-Text ebenfalls vektorisiert und mittels cosine similarity mit allen Produktvektoren verglichen.
+
+Ergebnis: Die Top-K ähnlichsten Produkte werden zurückgegeben, inkl. Ähnlichkeitsscore.
+
+5.2 Stimmungsbasierte Suche:
+
+Ziel: Der Nutzer gibt Wünsche ein wie „etwas für den Filmabend“ oder „Snack nach dem Sport“.
+
+Technologie: Klassifikation über vordefinierte Kategorien (Filmabend, Frühstück, Fitness etc.), basierend auf Few-Shot Prompt Engineering.
+
+Umsetzung: Ein GPT-Modell wird mit Beispielen im Prompt versorgt und entscheidet, welche Kategorie(n) zutreffen. Danach werden passende Produkte aus einer Mapping-Tabelle geladen.
+
+5.3 NLP-Freitextsuche (implemented):
+
+Ziel: Nutzer formuliert Wünsche wie „etwas Schokoladiges unter 2 €“.
+
+Technologie: Kombination aus Entity Recognition, Keyword Extraction und Rule-based Parsing.
+
+Umsetzung: Mit spaCy oder GPT-API wird der Text auf relevante Attribute analysiert:
+
+Produktkategorie (Schokolade, Chips, etc.)
+
+Preisgrenze (numerisch erkannt über Entity "MONEY" oder Pattern-Matching)
+
+Menge oder Zusatzbedingungen (z. B. „bio“, „vegan“)
+
+5.4 Preis/Gramm-Kalkulation:
+
+Ziel: Preis-Leistungs-Empfehlung pro Produkt.
+
+Offerly verbindet klassische Softwaretechnik mit intelligenter, alltagstauglicher AI. Durch die enge Verzahnung von Suchtechnologien, semantischer Verarbeitung und maschinellem Sprachverständnis entsteht eine Lösung mit echtem Mehrwert:
+
+Umsetzung: Aus der Beschreibung oder bekannten Produktdaten werden Mengeneinheiten (z. B. 100g, 1kg) extrahiert, dann wird der Preis auf Preis/Einheit normiert und sortiert.
+
+
+run backend: fastapi run main.py
+python -m fastapi dev .\main.py --host 0.0.0.0 --port 8000
+run frontend: flutter run
