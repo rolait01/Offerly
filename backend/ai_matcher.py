@@ -8,7 +8,7 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 async def fetch_categories_for_product(product: Product) -> list[str]:
     prompt = (
